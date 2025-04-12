@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>V-Projects - Avaliação de Desempenho</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #f0f2f5;
+        }
+        h1 {
+            margin-top: 20px;
+            color: #333;
+        }
+        .tabs {
+            display: flex;
+            margin-top: 20px;
+            border-bottom: 2px solid #007bff;
+        }
+        .tab {
+            padding: 12px 24px;
+            cursor: pointer;
+            border: none;
+            background: #e0e0e0;
+            font-weight: bold;
+            transition: background 0.3s;
+            border-radius: 5px 5px 0 0;
+            margin: 0 5px;
+        }
+        .tab.active {
+            background: #007bff;
+            color: white;
+        }
+        .content {
+            display: none;
+            margin-top: 20px;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            width: 80%;
+            max-width: 600px;
+        }
+        .content.active {
+            display: block;
+        }
+        form label {
+            display: block;
+            margin: 10px 0;
+            font-weight: bold;
+        }
+        input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            background: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+        .card {
+            background: #007bff;
+            color: white;
+            padding: 10px;
+            border-radius: 8px;
+            text-align: center;
+            margin-top: 15px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>V-Projects - Avaliação de Desempenho</h1>
+    <div class="tabs">
+        <div class="tab active" onclick="showTab('colaborador')">Colaborador</div>
+        <div class="tab" onclick="showTab('socio')">Sócio</div>
+    </div>
+    <div id="colaborador" class="content active">
+        <h2>Autoavaliação</h2>
+        <form>
+            <label>Nome do Usuário:
+                <select>
+                    <option>João Silva</option>
+                    <option>Maria Oliveira</option>
+                    <option>Carlos Souza</option>
+                    <option>Ana Mendes</option>
+                </select>
+            </label>
+            
+            <h3>Critérios Comportamentais (1 a 5)</h3>
+            <label>Sentimento de Dono: <input type="number" min="1" max="5"></label>
+            <label>Resiliência nas Adversidades: <input type="number" min="1" max="5"></label>
+            <label>Organização no Trabalho: <input type="number" min="1" max="5"></label>
+            <label>Capacidade de Aprender: <input type="number" min="1" max="5"></label>
+            <label>Ser "Team Player": <input type="number" min="1" max="5"></label>
+            
+            <h3>Critérios de Execução (1 a 5)</h3>
+            <label>Entregar com Qualidade: <input type="number" min="1" max="5"></label>
+            <label>Atender aos Prazos: <input type="number" min="1" max="5"></label>
+            <label>Fazer mais com Menos: <input type="number" min="1" max="5"></label>
+            <label>Pensar Fora da Caixa: <input type="number" min="1" max="5"></label>
+            
+            <button type="submit">Enviar Avaliação</button>
+        </form>
+    </div>
+    <div id="socio" class="content">
+        <h2>Painel do Sócio</h2>
+        <label>Selecionar Colaborador:
+            <select id="select-colaborador" onchange="mostrarHistorico()">
+                <option value="João Silva">João Silva</option>
+                <option value="Maria Oliveira">Maria Oliveira</option>
+                <option value="Carlos Souza">Carlos Souza</option>
+            </select>
+        </label>
+        <div id="historico"></div>
+    </div>
+    <script>
+        const historicoAvaliacoes = {
+            "João Silva": [4.5, 3.8, 4.2],
+            "Maria Oliveira": [3.2, 3.5, 3.1],
+            "Carlos Souza": [2.8, 2.9, 3.0]
+        };
+        
+        function showTab(tabId) {
+            document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
+            document.querySelectorAll('.content').forEach(content => content.classList.remove('active'));
+            document.querySelector(`[onclick="showTab('${tabId}')"]`).classList.add('active');
+            document.getElementById(tabId).classList.add('active');
+        }
+        
+        function mostrarHistorico() {
+            const colaborador = document.getElementById('select-colaborador').value;
+            const historico = historicoAvaliacoes[colaborador];
+            let media = historico.reduce((a, b) => a + b, 0) / historico.length;
+            let classificacao = "";
+            if (media > 4) classificacao = "Excepcional";
+            else if (media >= 3.5) classificacao = "Muito Bom";
+            else if (media >= 3) classificacao = "Fez o Básico";
+            else classificacao = "Precisa Melhorar";
+            
+            document.getElementById('historico').innerHTML = `
+                <h3>Histórico de Avaliações (${colaborador})</h3>
+                <p>Avaliações: ${historico.join(', ')}</p>
+                <div class="card">Média: ${media.toFixed(2)} - ${classificacao}</div>
+            `;
+        }
+    </script>
+</body>
+</html>

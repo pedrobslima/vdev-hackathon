@@ -1,0 +1,1001 @@
+ID;Nome;Critério;Tipo;Nota;Justificativa;DataAvaliacao
+3000; pedro.henrique ;Ser "team player"; Execução;;inovador, mas confuso;April 02, 2023
+3001; luiza.henrique ;Atender Aos Prazos; EXECUÇÃO;7,6;Boa Execução Com Erros Pontuais;March 10, 2023
+3002; mariana.costa ;Fazer Mais Com Menos; execução;Oito;RESPONSÁVEL, PORÉM INSEGURO;April 18, 2023
+3003;  ;PENSAR FORA DA CAIXA; COMPORTAMENTAL;Seis;""trabalho em equipe precisa melhorar""";15/04/2023
+3004; joana.silva ;Resiliencia Nas Adversidades; Execução;Dez;organizado, mas às vezes desatento;19.04.23
+3005; ricardo.silva ;RESILIENCIA NAS ADVERSIDADES; Execução;Oito;reativo, falta proatividade;15/apr/23
+3006; luiza.martins ;Entregar com qualidade; Comportamental;Dez;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;01.04.23
+3007; bruno.lima ;RESILIENCIA NAS ADVERSIDADES; COMPORTAMENTAL;9,5;Criativo, porém pouco claro;31.03.2023
+3008; joão.lima ;Capacidade De Aprender; Comportamental;Oito;Inovador, mas confuso;10.04.23
+3009; ricardo.martins ;Sentimento De Dono; COMPORTAMENTAL;;""reativo, falta proatividade""";15.04.23
+3010; carolina.mendes ;ATENDER AOS PRAZOS; Execução;;Aprende rápido, mas esquece feedbacks;13/apr/23
+3011;  ;Organização no trabalho; Comportamental;Oito;Cumpre Prazos, Mas Sem Iniciativa;04/may/23
+3012; sofia.martins ;SENTIMENTO DE DONO; Comportamental;7.1;Criativo, Porém Pouco Claro;23.03.23
+3013; ana.pereira ;RESILIENCIA NAS ADVERSIDADES; EXECUÇÃO;6.2;Inovador, mas confuso;April 15, 2023
+3014; joão.costa ;Atender aos prazos; COMPORTAMENTAL;;Criativo, porém pouco claro;08/04/2023
+3015; mariana.silva ;organização no trabalho; execução;8.4;TRABALHO EM EQUIPE PRECISA MELHORAR;21/04/2023
+3016; sofia.henrique ;Ser "team player"; EXECUÇÃO;;""Aprende Rápido, Mas Esquece Feedbacks""";28/mar/23
+3017; juliana.henrique ;fazer mais com menos; comportamental;;""Organizado, mas às vezes desatento""";01/apr/23
+3018; clara.oliveira ;Fazer mais com menos; comportamental;Sete;""Entrega consistente, mas falta comunicação""";13/03/2023
+3019; rafael.silva ;Ser "Team Player"; Execução;6.5;""boa execução com erros pontuais""";16/03/2023
+3020; ana.martins ;ENTREGAR COM QUALIDADE; EXECUÇÃO;6.5;""Criativo, Porém Pouco Claro""";April 24, 2023
+3021; marcos.mendes ;Resiliencia nas adversidades; execução;Dez;""Trabalho Em Equipe Precisa Melhorar""";16/04/2023
+3022; carolina.henrique ;Fazer Mais Com Menos; execução;Nove;""Aprende rápido, mas esquece feedbacks""";08.04.23
+3023; carolina.martins ;resiliencia nas adversidades; EXECUÇÃO;;""Trabalho Em Equipe Precisa Melhorar""";02.05.23
+3024; sofia.oliveira ;Organização No Trabalho; Execução;8,4;Entrega consistente, mas falta comunicação;30/mar/23
+3025; pedro.martins ;Resiliencia Nas Adversidades; Execução;9.7;""Boa execução com erros pontuais""";03/04/2023
+3026; marcos.mendes ;Resiliencia nas adversidades; Comportamental;;Trabalho Em Equipe Precisa Melhorar;07.05.23
+3027; carolina.costa ;Atender Aos Prazos; Execução;;Cumpre prazos, mas sem iniciativa;30.03.2023
+3028; carlos.lima ;ENTREGAR COM QUALIDADE; Comportamental;;Entrega consistente, mas falta comunicação;April 20, 2023
+3029;  ;RESILIENCIA NAS ADVERSIDADES; Execução;Dez;""Reativo, Falta Proatividade""";16/apr/23
+3030; rafael.henrique ;Fazer mais com menos; execução;6.4;Boa execução com erros pontuais;03.04.2023
+3031; maria.silva ;RESILIENCIA NAS ADVERSIDADES; Execução;6,1;Criativo, porém pouco claro;22/apr/23
+3032; marcos.costa ;ORGANIZAÇÃO NO TRABALHO; Execução;;Aprende rápido, mas esquece feedbacks;01/04/2023
+3033; juliana.pereira ;SER "TEAM PLAYER"; COMPORTAMENTAL;Sete;Reativo, Falta Proatividade;21.03.2023
+3034; ana.henrique ;organização no trabalho; execução;9,7;Entrega consistente, mas falta comunicação;21/04/2023
+3035; fernanda.pereira ;Ser "Team Player"; comportamental;;""ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO""";01.05.2023
+3036; sofia.costa ;Resiliencia nas adversidades; comportamental;;TRABALHO EM EQUIPE PRECISA MELHORAR;March 30, 2023
+3037; eduardo.oliveira ;Sentimento de dono; Execução;;REATIVO, FALTA PROATIVIDADE;23.04.2023
+3038; mariana.mendes ;resiliencia nas adversidades; COMPORTAMENTAL;9,3;Responsável, porém inseguro;24/apr/23
+3039; carolina.martins ;Pensar fora da caixa; execução;9,1;""Boa execução com erros pontuais""";07.05.23
+3040; rafael.souza ;fazer mais com menos; Execução;6.9;Trabalho em equipe precisa melhorar;04/may/23
+3041; sofia.oliveira ;Ser "team player"; Comportamental;6.9;""RESPONSÁVEL, PORÉM INSEGURO""";29.03.23
+3042; maria.mendes ;Resiliencia nas adversidades; EXECUÇÃO;6.7;INOVADOR, MAS CONFUSO;16/03/2023
+3043; marcos.lima ;Resiliencia nas adversidades; COMPORTAMENTAL;;Reativo, falta proatividade;12.04.2023
+3044; bruno.henrique ;ATENDER AOS PRAZOS; Comportamental;6.6;CRIATIVO, PORÉM POUCO CLARO;26/03/2023
+3045; mateus.silva ;Fazer Mais Com Menos; Execução;7.6;""Trabalho Em Equipe Precisa Melhorar""";01.05.2023
+3046; joão.costa ;ATENDER AOS PRAZOS; Execução;9.8;Organizado, Mas Às Vezes Desatento;21.04.23
+3047; luiza.martins ;Sentimento de dono; Comportamental;9,7;INOVADOR, MAS CONFUSO;07.04.23
+3048; eduardo.ferreira ;PENSAR FORA DA CAIXA; execução;Nove;""cumpre prazos, mas sem iniciativa""";12.04.23
+3049; marcos.lima ;resiliencia nas adversidades; Comportamental;;cumpre prazos, mas sem iniciativa;03/may/23
+3050; clara.costa ;SENTIMENTO DE DONO; Execução;6.9;Boa Execução Com Erros Pontuais;25.04.23
+3051; juliana.costa ;Pensar Fora Da Caixa; Execução;7,4;Entrega consistente, mas falta comunicação;27.04.23
+3052; carolina.pereira ;entregar com qualidade; comportamental;Oito;Reativo, Falta Proatividade;30.04.2023
+3053; joão.oliveira ;Entregar Com Qualidade; Execução;7,7;REATIVO, FALTA PROATIVIDADE;20/apr/23
+3054; bruno.silva ;organização no trabalho; Comportamental;6,2;""Entrega Consistente, Mas Falta Comunicação""";07.04.2023
+3055; rafael.henrique ;Organização no trabalho; Execução;6,6;Entrega consistente, mas falta comunicação;08/apr/23
+3056; sofia.mendes ;Entregar Com Qualidade; comportamental;Sete;Entrega Consistente, Mas Falta Comunicação;23/mar/23
+3057; rafael.martins ;capacidade de aprender; Execução;8.0;Responsável, Porém Inseguro;14.04.23
+3058; ricardo.souza ;FAZER MAIS COM MENOS; COMPORTAMENTAL;;Trabalho Em Equipe Precisa Melhorar;02.05.23
+3059; ricardo.mendes ;FAZER MAIS COM MENOS; EXECUÇÃO;9.0;Boa Execução Com Erros Pontuais;26/03/2023
+3060; mateus.costa ;organização no trabalho; Execução;Sete;""CRIATIVO, PORÉM POUCO CLARO""";28.03.23
+3061; pedro.martins ;Capacidade De Aprender; EXECUÇÃO;7.3;""Cumpre Prazos, Mas Sem Iniciativa""";April 28, 2023
+3062; marcos.mendes ;resiliencia nas adversidades; Execução;;""Responsável, porém inseguro""";11.04.2023
+3063; ana.oliveira ;Organização No Trabalho; execução;;Reativo, Falta Proatividade;22.04.2023
+3064; rafael.costa ;SER "TEAM PLAYER"; Execução;8,6;Reativo, Falta Proatividade;10.04.23
+3065; luiza.silva ;Capacidade de aprender; execução;7,6;Boa Execução Com Erros Pontuais;22.03.23
+3066; ricardo.martins ;CAPACIDADE DE APRENDER; execução;Seis;Inovador, mas confuso;29.04.23
+3067; joana.martins ;organização no trabalho; COMPORTAMENTAL;;CRIATIVO, PORÉM POUCO CLARO;24.03.2023
+3068; maria.martins ;Resiliencia nas adversidades; EXECUÇÃO;7,6;Responsável, porém inseguro;April 26, 2023
+3069; joana.pereira ;SER "TEAM PLAYER"; Comportamental;;""Inovador, mas confuso""";21/04/2023
+3070; pedro.mendes ;RESILIENCIA NAS ADVERSIDADES; Comportamental;9.3;CRIATIVO, PORÉM POUCO CLARO;April 25, 2023
+3071; bruno.ferreira ;Fazer mais com menos; comportamental;6.4;Trabalho em equipe precisa melhorar;April 11, 2023
+3072; sofia.lima ;Entregar Com Qualidade; Comportamental;8.9;""REATIVO, FALTA PROATIVIDADE""";19.03.23
+3073;  ;Entregar Com Qualidade; Execução;Seis;trabalho em equipe precisa melhorar;21/03/2023
+3074; juliana.oliveira ;Fazer mais com menos; comportamental;6.8;Organizado, mas às vezes desatento;09/apr/23
+3075; pedro.martins ;Ser "Team Player"; Comportamental;8.4;""aprende rápido, mas esquece feedbacks""";April 13, 2023
+3076; ana.martins ;Pensar fora da caixa; COMPORTAMENTAL;8,9;Responsável, porém inseguro;12/mar/23
+3077; mateus.costa ;Sentimento De Dono; Comportamental;7.3;trabalho em equipe precisa melhorar;17/apr/23
+3078; jorge.pereira ;CAPACIDADE DE APRENDER; comportamental;7.9;Boa Execução Com Erros Pontuais;31.03.2023
+3079; joão.ferreira ;atender aos prazos; Comportamental;Sete;Reativo, Falta Proatividade;01.04.2023
+3080; ana.ferreira ;Entregar com qualidade; execução;6,5;Trabalho Em Equipe Precisa Melhorar;14/04/2023
+3081; joana.costa ;RESILIENCIA NAS ADVERSIDADES; COMPORTAMENTAL;9.6;""aprende rápido, mas esquece feedbacks""";12.03.2023
+3082; luiza.ferreira ;FAZER MAIS COM MENOS; EXECUÇÃO;Seis;ORGANIZADO, MAS ÀS VEZES DESATENTO;07/may/23
+3083; pedro.silva ;organização no trabalho; Comportamental;9.6;boa execução com erros pontuais;17.03.2023
+3084; luiza.henrique ;Pensar fora da caixa; execução;6.7;Responsável, Porém Inseguro;10.03.2023
+3085; carolina.henrique ;entregar com qualidade; Comportamental;Dez;aprende rápido, mas esquece feedbacks;08/04/2023
+3086; joana.mendes ;Pensar Fora Da Caixa; EXECUÇÃO;7,9;CUMPRE PRAZOS, MAS SEM INICIATIVA;24/03/2023
+3087; juliana.lima ;atender aos prazos; comportamental;8,1;REATIVO, FALTA PROATIVIDADE;April 06, 2023
+3088; fernanda.martins ;ORGANIZAÇÃO NO TRABALHO; Execução;8,5;BOA EXECUÇÃO COM ERROS PONTUAIS;22.03.23
+3089; juliana.oliveira ;pensar fora da caixa; Execução;Nove;entrega consistente, mas falta comunicação;19.04.2023
+3090; joana.costa ;PENSAR FORA DA CAIXA; Execução;;Trabalho em equipe precisa melhorar;04/may/23
+3091; joana.lima ;resiliencia nas adversidades; Comportamental;8.5;INOVADOR, MAS CONFUSO;22.04.2023
+3092; juliana.silva ;fazer mais com menos; EXECUÇÃO;;""RESPONSÁVEL, PORÉM INSEGURO""";07/04/2023
+3093; joão.pereira ;organização no trabalho; execução;8,2;""Entrega Consistente, Mas Falta Comunicação""";29.04.23
+3094; eduardo.mendes ;Entregar com qualidade; COMPORTAMENTAL;;Inovador, mas confuso;30/03/2023
+3095; luiza.souza ;resiliencia nas adversidades; comportamental;Nove;Entrega consistente, mas falta comunicação;15/apr/23
+3096; fernanda.silva ;Pensar fora da caixa; COMPORTAMENTAL;9,6;Entrega consistente, mas falta comunicação;April 20, 2023
+3097; mateus.mendes ;resiliencia nas adversidades; execução;8,1;""aprende rápido, mas esquece feedbacks""";07.05.23
+3098; mariana.pereira ;Pensar fora da caixa; comportamental;9,7;Boa Execução Com Erros Pontuais;09/05/2023
+3099; clara.martins ;entregar com qualidade; Comportamental;9,9;entrega consistente, mas falta comunicação;12/mar/23
+3100; mateus.mendes ;Entregar com qualidade; Comportamental;6.6;ORGANIZADO, MAS ÀS VEZES DESATENTO;28/mar/23
+3101;  ;sentimento de dono; Execução;6.4;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;13.04.2023
+3102; clara.lima ;Pensar fora da caixa; Execução;7,4;Trabalho Em Equipe Precisa Melhorar;23.03.23
+3103; clara.martins ;Resiliencia Nas Adversidades; Execução;8,1;Aprende Rápido, Mas Esquece Feedbacks;March 31, 2023
+3104; jorge.silva ;Capacidade de aprender; Execução;;cumpre prazos, mas sem iniciativa;14/04/2023
+3105; clara.pereira ;PENSAR FORA DA CAIXA; Comportamental;8,3;cumpre prazos, mas sem iniciativa;11/04/2023
+3106; bruno.oliveira ;Resiliencia nas adversidades; comportamental;8,9;""Organizado, mas às vezes desatento""";April 26, 2023
+3107; joão.lima ;Entregar Com Qualidade; Execução;7.5;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;11.03.23
+3108;  ;ATENDER AOS PRAZOS; COMPORTAMENTAL;;Aprende rápido, mas esquece feedbacks;26.04.2023
+3109; jorge.pereira ;PENSAR FORA DA CAIXA; Execução;;""Boa Execução Com Erros Pontuais""";02.04.23
+3110; carolina.oliveira ;atender aos prazos; Execução;Seis;""ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO""";17.03.2023
+3111;  ;Fazer mais com menos; COMPORTAMENTAL;7.8;REATIVO, FALTA PROATIVIDADE;12/apr/23
+3112; mateus.mendes ;Ser "team player"; comportamental;Nove;REATIVO, FALTA PROATIVIDADE;14.03.2023
+3113; pedro.martins ;Pensar fora da caixa; Execução;Dez;""aprende rápido, mas esquece feedbacks""";04/04/2023
+3114; sofia.martins ;sentimento de dono; comportamental;;Trabalho em equipe precisa melhorar;28/mar/23
+3115; carlos.martins ;atender aos prazos; comportamental;8.2;inovador, mas confuso;05/may/23
+3116; fernanda.henrique ;pensar fora da caixa; Execução;9,9;Criativo, porém pouco claro;12.04.2023
+3117; sofia.costa ;Capacidade de aprender; EXECUÇÃO;9,8;Trabalho em equipe precisa melhorar;04.05.2023
+3118; rafael.oliveira ;Resiliencia nas adversidades; Comportamental;Nove;reativo, falta proatividade;March 19, 2023
+3119; juliana.martins ;Sentimento De Dono; Execução;Oito;inovador, mas confuso;09/may/23
+3120; mariana.costa ;Entregar Com Qualidade; comportamental;7,2;Boa Execução Com Erros Pontuais;16.04.2023
+3121; clara.souza ;sentimento de dono; Execução;6.5;Cumpre Prazos, Mas Sem Iniciativa;28/03/2023
+3122; luiza.pereira ;Ser "team player"; comportamental;8,9;Organizado, Mas Às Vezes Desatento;April 22, 2023
+3123; luiza.silva ;Ser "Team Player"; COMPORTAMENTAL;;reativo, falta proatividade;28.04.23
+3124; marcos.souza ;FAZER MAIS COM MENOS; COMPORTAMENTAL;7.7;Reativo, Falta Proatividade;18.03.2023
+3125; maria.costa ;Entregar Com Qualidade; Comportamental;7.0;""INOVADOR, MAS CONFUSO""";18.03.23
+3126; rafael.souza ;sentimento de dono; Execução;6,6;criativo, porém pouco claro;06.05.2023
+3127; joão.costa ;capacidade de aprender; Comportamental;9.4;Trabalho em equipe precisa melhorar;08/05/2023
+3128; maria.ferreira ;ENTREGAR COM QUALIDADE; execução;6.4;BOA EXECUÇÃO COM ERROS PONTUAIS;26.03.23
+3129; rafael.lima ;pensar fora da caixa; Execução;7,5;Organizado, mas às vezes desatento;17.04.2023
+3130; joana.oliveira ;Fazer Mais Com Menos; Comportamental;;Boa execução com erros pontuais;25/03/2023
+3131; mateus.costa ;ATENDER AOS PRAZOS; Execução;9.1;Criativo, Porém Pouco Claro;March 29, 2023
+3132; luiza.costa ;resiliencia nas adversidades; comportamental;7,1;REATIVO, FALTA PROATIVIDADE;March 16, 2023
+3133; ricardo.silva ;Resiliencia Nas Adversidades; Comportamental;10.0;reativo, falta proatividade;30/04/2023
+3134; fernanda.oliveira ;Atender aos prazos; Comportamental;Oito;INOVADOR, MAS CONFUSO;01.05.2023
+3135; clara.oliveira ;FAZER MAIS COM MENOS; Execução;;RESPONSÁVEL, PORÉM INSEGURO;April 23, 2023
+3136; luiza.martins ;PENSAR FORA DA CAIXA; comportamental;;inovador, mas confuso;19/mar/23
+3137; luiza.oliveira ;Entregar com qualidade; COMPORTAMENTAL;9,0;reativo, falta proatividade;March 18, 2023
+3138; clara.henrique ;Resiliencia nas adversidades; EXECUÇÃO;8,2;CRIATIVO, PORÉM POUCO CLARO;April 14, 2023
+3139; luiza.henrique ;organização no trabalho; EXECUÇÃO;;""entrega consistente, mas falta comunicação""";03.05.2023
+3140; ana.souza ;Organização no trabalho; EXECUÇÃO;Oito;CUMPRE PRAZOS, MAS SEM INICIATIVA;31/mar/23
+3141; maria.souza ;entregar com qualidade; execução;6,5;Reativo, falta proatividade;March 28, 2023
+3142; carlos.henrique ;Atender aos prazos; Execução;Dez;""RESPONSÁVEL, PORÉM INSEGURO""";29/03/2023
+3143; joana.lima ;Pensar Fora Da Caixa; Comportamental;6,4;""ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO""";23/mar/23
+3144; ricardo.souza ;Organização No Trabalho; Execução;Nove;Reativo, Falta Proatividade;17.03.23
+3145; bruno.pereira ;Atender Aos Prazos; execução;;Entrega Consistente, Mas Falta Comunicação;04.04.2023
+3146;  ;ATENDER AOS PRAZOS; Comportamental;9,6;Organizado, Mas Às Vezes Desatento;12.04.23
+3147; joão.lima ;FAZER MAIS COM MENOS; Execução;8.4;boa execução com erros pontuais;22/04/2023
+3148; luiza.costa ;Resiliencia nas adversidades; Execução;Dez;Entrega consistente, mas falta comunicação;April 03, 2023
+3149;  ;fazer mais com menos; Execução;Seis;Trabalho em equipe precisa melhorar;11/mar/23
+3150; rafael.oliveira ;Sentimento De Dono; Execução;;""trabalho em equipe precisa melhorar""";06/may/23
+3151; eduardo.pereira ;ORGANIZAÇÃO NO TRABALHO; execução;;TRABALHO EM EQUIPE PRECISA MELHORAR;11.03.2023
+3152; mateus.mendes ;ENTREGAR COM QUALIDADE; comportamental;8.3;criativo, porém pouco claro;17.03.23
+3153;  ;Pensar fora da caixa; Execução;;""reativo, falta proatividade""";20.03.2023
+3154; ricardo.henrique ;Fazer mais com menos; Execução;;organizado, mas às vezes desatento;09.04.2023
+3155; fernanda.henrique ;Pensar fora da caixa; Execução;Oito;entrega consistente, mas falta comunicação;12/04/2023
+3156; eduardo.martins ;Sentimento de dono; comportamental;6.7;Boa Execução Com Erros Pontuais;28.04.2023
+3157; fernanda.oliveira ;atender aos prazos; Execução;7,1;Inovador, mas confuso;10/03/2023
+3158; sofia.souza ;Ser "Team Player"; execução;6.9;INOVADOR, MAS CONFUSO;March 11, 2023
+3159; bruno.mendes ;Sentimento De Dono; Comportamental;6.8;""boa execução com erros pontuais""";05/04/2023
+3160; ana.silva ;Sentimento De Dono; execução;Nove;TRABALHO EM EQUIPE PRECISA MELHORAR;20.03.2023
+3161; maria.henrique ;resiliencia nas adversidades; Comportamental;;inovador, mas confuso;05.04.2023
+3162; ricardo.souza ;Fazer Mais Com Menos; Execução;7,6;Responsável, Porém Inseguro;14.03.2023
+3163; pedro.lima ;ENTREGAR COM QUALIDADE; EXECUÇÃO;9,5;Inovador, Mas Confuso;March 26, 2023
+3164; eduardo.souza ;entregar com qualidade; execução;Oito;""Inovador, mas confuso""";May 01, 2023
+3165; jorge.souza ;entregar com qualidade; comportamental;Seis;Trabalho em equipe precisa melhorar;28.03.23
+3166; fernanda.pereira ;Sentimento de dono; execução;;responsável, porém inseguro;22.04.2023
+3167; joão.oliveira ;ATENDER AOS PRAZOS; Execução;;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;14/apr/23
+3168; juliana.lima ;FAZER MAIS COM MENOS; Comportamental;Nove;CRIATIVO, PORÉM POUCO CLARO;20.04.2023
+3169; maria.lima ;Organização No Trabalho; EXECUÇÃO;9,3;Responsável, porém inseguro;09/may/23
+3170; ana.pereira ;ATENDER AOS PRAZOS; comportamental;8.5;boa execução com erros pontuais;May 06, 2023
+3171; luiza.costa ;sentimento de dono; execução;9,0;""Reativo, Falta Proatividade""";04.05.2023
+3172; ricardo.mendes ;CAPACIDADE DE APRENDER; Execução;8.5;Responsável, porém inseguro;29/apr/23
+3173;  ;PENSAR FORA DA CAIXA; comportamental;Dez;CUMPRE PRAZOS, MAS SEM INICIATIVA;01.05.23
+3174; juliana.mendes ;Sentimento de dono; EXECUÇÃO;;""Cumpre Prazos, Mas Sem Iniciativa""";April 06, 2023
+3175; eduardo.souza ;Capacidade De Aprender; execução;8,8;Boa Execução Com Erros Pontuais;21/04/2023
+3176; luiza.pereira ;Ser "Team Player"; COMPORTAMENTAL;;responsável, porém inseguro;16/apr/23
+3177; maria.martins ;ENTREGAR COM QUALIDADE; execução;8.8;trabalho em equipe precisa melhorar;11.03.23
+3178; pedro.silva ;Atender aos prazos; EXECUÇÃO;;Inovador, mas confuso;April 28, 2023
+3179; rafael.oliveira ;PENSAR FORA DA CAIXA; Execução;6.9;Organizado, Mas Às Vezes Desatento;April 14, 2023
+3180; bruno.mendes ;Resiliencia Nas Adversidades; Execução;8.2;TRABALHO EM EQUIPE PRECISA MELHORAR;April 06, 2023
+3181; ricardo.ferreira ;resiliencia nas adversidades; Comportamental;Oito;organizado, mas às vezes desatento;03/05/2023
+3182; pedro.costa ;Pensar Fora Da Caixa; Comportamental;9.1;boa execução com erros pontuais;26.04.2023
+3183; ricardo.mendes ;Organização no trabalho; Comportamental;Nove;Cumpre prazos, mas sem iniciativa;30.03.23
+3184; carlos.ferreira ;RESILIENCIA NAS ADVERSIDADES; comportamental;6,9;aprende rápido, mas esquece feedbacks;14/apr/23
+3185; rafael.silva ;entregar com qualidade; comportamental;Seis;""TRABALHO EM EQUIPE PRECISA MELHORAR""";03/apr/23
+3186; mateus.souza ;Pensar Fora Da Caixa; Execução;7,0;""Entrega Consistente, Mas Falta Comunicação""";March 18, 2023
+3187; luiza.lima ;Pensar Fora Da Caixa; Execução;Oito;Entrega Consistente, Mas Falta Comunicação;09.04.2023
+3188; ana.martins ;Organização No Trabalho; Comportamental;;Criativo, porém pouco claro;22/mar/23
+3189; luiza.mendes ;ENTREGAR COM QUALIDADE; Execução;;ORGANIZADO, MAS ÀS VEZES DESATENTO;28.04.2023
+3190; rafael.mendes ;Pensar fora da caixa; COMPORTAMENTAL;Oito;Reativo, Falta Proatividade;28.03.2023
+3191; eduardo.mendes ;ATENDER AOS PRAZOS; Comportamental;6.3;CUMPRE PRAZOS, MAS SEM INICIATIVA;16/03/2023
+3192; carlos.martins ;Entregar Com Qualidade; comportamental;Dez;Boa Execução Com Erros Pontuais;22.03.23
+3193; juliana.lima ;Sentimento De Dono; Execução;7.3;RESPONSÁVEL, PORÉM INSEGURO;19.04.23
+3194; pedro.pereira ;Atender Aos Prazos; COMPORTAMENTAL;9.2;Criativo, Porém Pouco Claro;28/apr/23
+3195; luiza.henrique ;Pensar Fora Da Caixa; Comportamental;9.6;Criativo, Porém Pouco Claro;27.04.2023
+3196; pedro.silva ;ser "team player"; Execução;7.0;criativo, porém pouco claro;20/04/2023
+3197; carlos.pereira ;pensar fora da caixa; Execução;;Boa Execução Com Erros Pontuais;05/05/2023
+3198; mariana.lima ;ORGANIZAÇÃO NO TRABALHO; Execução;7,2;CRIATIVO, PORÉM POUCO CLARO;21.03.2023
+3199; ricardo.henrique ;Atender Aos Prazos; Comportamental;;entrega consistente, mas falta comunicação;12/mar/23
+3200; joão.silva ;FAZER MAIS COM MENOS; comportamental;6,8;inovador, mas confuso;06.04.2023
+3201; luiza.oliveira ;atender aos prazos; Execução;8.3;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;08/05/2023
+3202; ana.oliveira ;Pensar Fora Da Caixa; Execução;9.9;Reativo, Falta Proatividade;28/apr/23
+3203; marcos.lima ;Entregar Com Qualidade; execução;6.4;TRABALHO EM EQUIPE PRECISA MELHORAR;07.05.23
+3204; maria.martins ;Sentimento de dono; Execução;7.2;Trabalho Em Equipe Precisa Melhorar;12/mar/23
+3205; ana.pereira ;Entregar com qualidade; Execução;Seis;INOVADOR, MAS CONFUSO;March 24, 2023
+3206; mateus.ferreira ;Sentimento de dono; execução;Sete;inovador, mas confuso;May 02, 2023
+3207; mariana.martins ;Sentimento De Dono; comportamental;9.0;trabalho em equipe precisa melhorar;07.04.23
+3208; joana.pereira ;Sentimento De Dono; EXECUÇÃO;Dez;REATIVO, FALTA PROATIVIDADE;30/03/2023
+3209; bruno.henrique ;Fazer mais com menos; execução;9.0;RESPONSÁVEL, PORÉM INSEGURO;March 10, 2023
+3210; bruno.costa ;Entregar com qualidade; COMPORTAMENTAL;;""Trabalho Em Equipe Precisa Melhorar""";May 06, 2023
+3211; ricardo.lima ;Pensar fora da caixa; EXECUÇÃO;Dez;TRABALHO EM EQUIPE PRECISA MELHORAR;28.04.2023
+3212; bruno.oliveira ;Ser "team player"; COMPORTAMENTAL;Oito;""RESPONSÁVEL, PORÉM INSEGURO""";24.04.2023
+3213; carlos.ferreira ;Capacidade De Aprender; Execução;;""INOVADOR, MAS CONFUSO""";March 19, 2023
+3214; rafael.costa ;PENSAR FORA DA CAIXA; Comportamental;6,9;CUMPRE PRAZOS, MAS SEM INICIATIVA;20.03.2023
+3215; carolina.henrique ;fazer mais com menos; Comportamental;8,4;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;24/apr/23
+3216; pedro.oliveira ;sentimento de dono; Execução;;CUMPRE PRAZOS, MAS SEM INICIATIVA;08.04.23
+3217; mariana.costa ;ser "team player"; Execução;6.4;Cumpre Prazos, Mas Sem Iniciativa;25.04.2023
+3218; juliana.martins ;pensar fora da caixa; EXECUÇÃO;9,8;""Entrega consistente, mas falta comunicação""";16.04.23
+3219; ricardo.ferreira ;Capacidade de aprender; EXECUÇÃO;Dez;Aprende rápido, mas esquece feedbacks;06/apr/23
+3220; jorge.henrique ;organização no trabalho; Execução;8.0;""criativo, porém pouco claro""";18/04/2023
+3221; mariana.souza ;Capacidade De Aprender; comportamental;;cumpre prazos, mas sem iniciativa;30/mar/23
+3222; fernanda.costa ;Resiliencia nas adversidades; COMPORTAMENTAL;Dez;RESPONSÁVEL, PORÉM INSEGURO;05/05/2023
+3223; sofia.martins ;CAPACIDADE DE APRENDER; Comportamental;9,6;Reativo, falta proatividade;20/03/2023
+3224; marcos.lima ;SER "TEAM PLAYER"; Execução;Dez;""Cumpre prazos, mas sem iniciativa""";03.05.2023
+3225; mateus.martins ;pensar fora da caixa; COMPORTAMENTAL;7.1;Aprende rápido, mas esquece feedbacks;21.04.2023
+3226; jorge.henrique ;RESILIENCIA NAS ADVERSIDADES; Execução;7.8;Responsável, porém inseguro;01/04/2023
+3227; mariana.silva ;SER "TEAM PLAYER"; comportamental;9.5;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;April 21, 2023
+3228; ricardo.ferreira ;capacidade de aprender; Comportamental;Dez;trabalho em equipe precisa melhorar;20/04/2023
+3229; joão.henrique ;Sentimento de dono; Execução;Dez;responsável, porém inseguro;15/03/2023
+3230; carlos.lima ;ORGANIZAÇÃO NO TRABALHO; COMPORTAMENTAL;6.3;Criativo, Porém Pouco Claro;09/may/23
+3231; pedro.lima ;Fazer Mais Com Menos; EXECUÇÃO;Oito;organizado, mas às vezes desatento;24.03.23
+3232; clara.henrique ;SER "TEAM PLAYER"; comportamental;7,1;Aprende Rápido, Mas Esquece Feedbacks;19/04/2023
+3233; joana.pereira ;Capacidade de aprender; COMPORTAMENTAL;Sete;Boa execução com erros pontuais;28/mar/23
+3234; maria.ferreira ;SENTIMENTO DE DONO; Comportamental;;""Responsável, porém inseguro""";April 18, 2023
+3235; eduardo.pereira ;SENTIMENTO DE DONO; execução;6.4;""Boa execução com erros pontuais""";05/apr/23
+3236; marcos.lima ;fazer mais com menos; Comportamental;;Boa execução com erros pontuais;15.03.2023
+3237; joana.souza ;resiliencia nas adversidades; Execução;7,1;reativo, falta proatividade;March 22, 2023
+3238; bruno.lima ;Ser "team player"; execução;Dez;Trabalho em equipe precisa melhorar;March 20, 2023
+3239; marcos.souza ;Sentimento De Dono; Execução;;trabalho em equipe precisa melhorar;22.03.2023
+3240; jorge.henrique ;ENTREGAR COM QUALIDADE; Execução;9.1;Aprende Rápido, Mas Esquece Feedbacks;03/05/2023
+3241; joão.martins ;ser "team player"; execução;7.5;Criativo, porém pouco claro;May 04, 2023
+3242; carlos.silva ;SENTIMENTO DE DONO; Comportamental;Nove;aprende rápido, mas esquece feedbacks;11.04.2023
+3243; ricardo.pereira ;sentimento de dono; Execução;Nove;responsável, porém inseguro;06.05.23
+3244; pedro.mendes ;Organização No Trabalho; COMPORTAMENTAL;;REATIVO, FALTA PROATIVIDADE;April 09, 2023
+3245; mariana.souza ;Pensar Fora Da Caixa; COMPORTAMENTAL;;Organizado, mas às vezes desatento;May 04, 2023
+3246; luiza.ferreira ;atender aos prazos; Comportamental;Nove;""CRIATIVO, PORÉM POUCO CLARO""";02.04.2023
+3247; sofia.henrique ;Organização no trabalho; Comportamental;7,9;Entrega consistente, mas falta comunicação;May 05, 2023
+3248; luiza.pereira ;entregar com qualidade; comportamental;9,3;inovador, mas confuso;07.05.2023
+3249; mariana.souza ;resiliencia nas adversidades; Comportamental;;criativo, porém pouco claro;March 29, 2023
+3250; ricardo.lima ;RESILIENCIA NAS ADVERSIDADES; Comportamental;8,8;trabalho em equipe precisa melhorar;March 17, 2023
+3251; ana.oliveira ;SENTIMENTO DE DONO; Comportamental;Nove;Entrega Consistente, Mas Falta Comunicação;26.04.23
+3252; luiza.silva ;Atender aos prazos; Execução;;reativo, falta proatividade;12/04/2023
+3253; jorge.oliveira ;Capacidade De Aprender; Comportamental;Seis;Criativo, porém pouco claro;27/04/2023
+3254; sofia.costa ;ATENDER AOS PRAZOS; comportamental;;organizado, mas às vezes desatento;March 29, 2023
+3255; marcos.ferreira ;Capacidade de aprender; Comportamental;;Aprende rápido, mas esquece feedbacks;April 18, 2023
+3256; mateus.pereira ;ENTREGAR COM QUALIDADE; Execução;9.5;entrega consistente, mas falta comunicação;17.03.2023
+3257; bruno.pereira ;capacidade de aprender; COMPORTAMENTAL;9.8;organizado, mas às vezes desatento;18/03/2023
+3258; carolina.henrique ;sentimento de dono; Comportamental;7.4;""Entrega consistente, mas falta comunicação""";23.04.2023
+3259; mariana.mendes ;CAPACIDADE DE APRENDER; Execução;7,1;""Cumpre Prazos, Mas Sem Iniciativa""";29.04.23
+3260; carlos.souza ;Resiliencia Nas Adversidades; Execução;Sete;BOA EXECUÇÃO COM ERROS PONTUAIS;22/apr/23
+3261; carlos.souza ;Sentimento De Dono; Execução;Oito;Entrega Consistente, Mas Falta Comunicação;05/apr/23
+3262; bruno.ferreira ;atender aos prazos; Comportamental;8,2;Cumpre prazos, mas sem iniciativa;April 08, 2023
+3263; sofia.pereira ;ATENDER AOS PRAZOS; EXECUÇÃO;10,0;Responsável, Porém Inseguro;17.04.23
+3264; bruno.martins ;RESILIENCIA NAS ADVERSIDADES; execução;;""Boa execução com erros pontuais""";15.03.23
+3265; luiza.henrique ;organização no trabalho; execução;9,8;ORGANIZADO, MAS ÀS VEZES DESATENTO;05.04.2023
+3266; mariana.martins ;ATENDER AOS PRAZOS; Execução;9.9;Entrega Consistente, Mas Falta Comunicação;15.03.2023
+3267; maria.costa ;ENTREGAR COM QUALIDADE; Execução;7,7;Boa Execução Com Erros Pontuais;April 01, 2023
+3268; maria.costa ;Entregar com qualidade; comportamental;9.9;""CRIATIVO, PORÉM POUCO CLARO""";28.03.2023
+3269; clara.oliveira ;CAPACIDADE DE APRENDER; Comportamental;Dez;RESPONSÁVEL, PORÉM INSEGURO;May 02, 2023
+3270; maria.lima ;Fazer mais com menos; Execução;;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;04/05/2023
+3271; carlos.henrique ;Fazer Mais Com Menos; EXECUÇÃO;;""Entrega consistente, mas falta comunicação""";12.04.23
+3272; maria.lima ;Entregar Com Qualidade; Execução;7,7;Trabalho Em Equipe Precisa Melhorar;04/04/2023
+3273; carlos.mendes ;Organização no trabalho; comportamental;;""CUMPRE PRAZOS, MAS SEM INICIATIVA""";30.04.23
+3274; bruno.ferreira ;Entregar Com Qualidade; Execução;Seis;Aprende rápido, mas esquece feedbacks;April 08, 2023
+3275; carolina.martins ;Entregar Com Qualidade; EXECUÇÃO;Oito;Cumpre Prazos, Mas Sem Iniciativa;April 18, 2023
+3276; bruno.ferreira ;Fazer mais com menos; COMPORTAMENTAL;8,6;Trabalho Em Equipe Precisa Melhorar;25/03/2023
+3277; ana.mendes ;pensar fora da caixa; Execução;Sete;""Trabalho Em Equipe Precisa Melhorar""";March 17, 2023
+3278; joão.martins ;Fazer Mais Com Menos; Comportamental;;""entrega consistente, mas falta comunicação""";25/mar/23
+3279; maria.costa ;Ser "team player"; EXECUÇÃO;;responsável, porém inseguro;22.04.23
+3280;  ;Ser "team player"; execução;;Aprende Rápido, Mas Esquece Feedbacks;30.03.2023
+3281; jorge.martins ;Ser "team player"; Execução;;REATIVO, FALTA PROATIVIDADE;21/04/2023
+3282; carolina.silva ;resiliencia nas adversidades; Comportamental;8,4;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;21/04/2023
+3283; joana.mendes ;resiliencia nas adversidades; Execução;9,9;Entrega consistente, mas falta comunicação;19.04.2023
+3284; bruno.lima ;Ser "team player"; Execução;Nove;organizado, mas às vezes desatento;12.04.23
+3285; rafael.lima ;FAZER MAIS COM MENOS; Execução;;Entrega consistente, mas falta comunicação;28/apr/23
+3286; luiza.ferreira ;entregar com qualidade; execução;Sete;reativo, falta proatividade;15.04.23
+3287; bruno.oliveira ;Organização no trabalho; COMPORTAMENTAL;9.4;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;25.03.23
+3288; rafael.oliveira ;FAZER MAIS COM MENOS; Execução;;Reativo, falta proatividade;March 29, 2023
+3289; rafael.silva ;Organização no trabalho; Comportamental;6,1;REATIVO, FALTA PROATIVIDADE;14.03.23
+3290; eduardo.henrique ;Fazer mais com menos; Comportamental;7,1;TRABALHO EM EQUIPE PRECISA MELHORAR;09/apr/23
+3291; eduardo.silva ;PENSAR FORA DA CAIXA; COMPORTAMENTAL;9,3;Boa Execução Com Erros Pontuais;23/mar/23
+3292; bruno.costa ;FAZER MAIS COM MENOS; Execução;;REATIVO, FALTA PROATIVIDADE;20/mar/23
+3293; fernanda.pereira ;Pensar Fora Da Caixa; EXECUÇÃO;6,4;Inovador, mas confuso;15.04.23
+3294; mariana.costa ;CAPACIDADE DE APRENDER; COMPORTAMENTAL;6,9;Boa execução com erros pontuais;March 31, 2023
+3295; bruno.costa ;SER "TEAM PLAYER"; execução;;Aprende rápido, mas esquece feedbacks;15/apr/23
+3296; ricardo.costa ;Capacidade de aprender; Execução;;boa execução com erros pontuais;28/mar/23
+3297; joão.oliveira ;Fazer mais com menos; comportamental;;""Responsável, Porém Inseguro""";07/05/2023
+3298; luiza.silva ;Atender aos prazos; EXECUÇÃO;7,1;""Boa execução com erros pontuais""";18.03.23
+3299; juliana.mendes ;ORGANIZAÇÃO NO TRABALHO; comportamental;7.0;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;21/mar/23
+3300; rafael.silva ;organização no trabalho; Comportamental;9.8;Aprende rápido, mas esquece feedbacks;March 16, 2023
+3301; rafael.mendes ;capacidade de aprender; Execução;7,1;reativo, falta proatividade;30.04.2023
+3302; mariana.silva ;Entregar Com Qualidade; Comportamental;6.7;""Entrega consistente, mas falta comunicação""";21.04.23
+3303; eduardo.henrique ;Atender aos prazos; execução;6,1;""Trabalho Em Equipe Precisa Melhorar""";May 02, 2023
+3304; joana.henrique ;Fazer Mais Com Menos; comportamental;9,2;Aprende rápido, mas esquece feedbacks;12/apr/23
+3305; carlos.ferreira ;FAZER MAIS COM MENOS; Comportamental;Seis;""Responsável, Porém Inseguro""";10/04/2023
+3306; carlos.mendes ;ORGANIZAÇÃO NO TRABALHO; Execução;;""Criativo, porém pouco claro""";April 07, 2023
+3307; joão.oliveira ;Atender Aos Prazos; execução;Dez;Inovador, mas confuso;16/04/2023
+3308; juliana.mendes ;Sentimento de dono; execução;;Boa Execução Com Erros Pontuais;18.04.2023
+3309; sofia.mendes ;entregar com qualidade; execução;Nove;trabalho em equipe precisa melhorar;03.04.2023
+3310; joana.henrique ;PENSAR FORA DA CAIXA; Execução;;aprende rápido, mas esquece feedbacks;May 01, 2023
+3311; joão.lima ;ATENDER AOS PRAZOS; COMPORTAMENTAL;10.0;Cumpre Prazos, Mas Sem Iniciativa;08.05.23
+3312; clara.lima ;entregar com qualidade; Comportamental;;boa execução com erros pontuais;24/03/2023
+3313; joana.costa ;Sentimento de dono; execução;9.7;Cumpre Prazos, Mas Sem Iniciativa;06.05.23
+3314; luiza.ferreira ;Atender Aos Prazos; Comportamental;;INOVADOR, MAS CONFUSO;30/03/2023
+3315; luiza.silva ;ser "team player"; execução;7.4;Criativo, porém pouco claro;15.03.23
+3316; ana.mendes ;RESILIENCIA NAS ADVERSIDADES; EXECUÇÃO;8.9;""APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS""";06.04.23
+3317; sofia.ferreira ;PENSAR FORA DA CAIXA; Comportamental;Sete;Criativo, Porém Pouco Claro;April 21, 2023
+3318; sofia.mendes ;SER "TEAM PLAYER"; comportamental;;boa execução com erros pontuais;10.04.23
+3319; juliana.silva ;FAZER MAIS COM MENOS; Comportamental;6.3;Organizado, mas às vezes desatento;03.04.2023
+3320; joão.henrique ;fazer mais com menos; Comportamental;;Criativo, porém pouco claro;06.05.23
+3321; mariana.costa ;Capacidade De Aprender; Comportamental;;""Trabalho em equipe precisa melhorar""";11.03.2023
+3322; joão.silva ;organização no trabalho; execução;8,4;""Responsável, porém inseguro""";April 27, 2023
+3323; carlos.pereira ;capacidade de aprender; comportamental;9.4;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;31.03.2023
+3324; clara.costa ;organização no trabalho; COMPORTAMENTAL;;""criativo, porém pouco claro""";23/03/2023
+3325; fernanda.pereira ;fazer mais com menos; Execução;;Organizado, mas às vezes desatento;20/03/2023
+3326; pedro.costa ;Ser "Team Player"; Execução;Dez;Entrega Consistente, Mas Falta Comunicação;01/may/23
+3327; carlos.martins ;Atender aos prazos; Execução;;Trabalho em equipe precisa melhorar;28.04.23
+3328; mateus.pereira ;Atender Aos Prazos; Comportamental;7.3;CUMPRE PRAZOS, MAS SEM INICIATIVA;25/mar/23
+3329; jorge.mendes ;Ser "Team Player"; Execução;8,0;Criativo, Porém Pouco Claro;26.03.2023
+3330; sofia.silva ;resiliencia nas adversidades; COMPORTAMENTAL;;Aprende rápido, mas esquece feedbacks;31.03.2023
+3331; mateus.ferreira ;Atender Aos Prazos; EXECUÇÃO;6,6;organizado, mas às vezes desatento;16.03.2023
+3332; jorge.henrique ;Entregar com qualidade; COMPORTAMENTAL;6,5;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;16/apr/23
+3333; luiza.martins ;Entregar com qualidade; COMPORTAMENTAL;Sete;Boa Execução Com Erros Pontuais;01/05/2023
+3334; marcos.henrique ;SER "TEAM PLAYER"; Comportamental;;RESPONSÁVEL, PORÉM INSEGURO;14.04.2023
+3335; sofia.costa ;Pensar fora da caixa; comportamental;Nove;Cumpre prazos, mas sem iniciativa;12/apr/23
+3336; marcos.pereira ;Ser "team player"; execução;9,6;Trabalho Em Equipe Precisa Melhorar;30.03.2023
+3337; eduardo.silva ;entregar com qualidade; execução;;""Cumpre prazos, mas sem iniciativa""";10/03/2023
+3338; fernanda.mendes ;Resiliencia Nas Adversidades; EXECUÇÃO;Sete;organizado, mas às vezes desatento;01.04.23
+3339; fernanda.oliveira ;Organização No Trabalho; Comportamental;Dez;Inovador, Mas Confuso;24/03/2023
+3340; rafael.martins ;Organização No Trabalho; execução;7,0;Inovador, Mas Confuso;09/apr/23
+3341; eduardo.lima ;Sentimento de dono; Comportamental;Dez;""REATIVO, FALTA PROATIVIDADE""";01.05.2023
+3342; luiza.mendes ;CAPACIDADE DE APRENDER; COMPORTAMENTAL;8,2;Trabalho em equipe precisa melhorar;15/apr/23
+3343; bruno.silva ;Resiliencia nas adversidades; Execução;9.8;RESPONSÁVEL, PORÉM INSEGURO;03.05.2023
+3344; eduardo.ferreira ;FAZER MAIS COM MENOS; COMPORTAMENTAL;Sete;Criativo, Porém Pouco Claro;28.04.2023
+3345; maria.oliveira ;atender aos prazos; Execução;6,9;Cumpre prazos, mas sem iniciativa;13/apr/23
+3346; joana.souza ;Resiliencia nas adversidades; Comportamental;9,9;CRIATIVO, PORÉM POUCO CLARO;07/may/23
+3347; juliana.lima ;Ser "team player"; EXECUÇÃO;;Entrega Consistente, Mas Falta Comunicação;06/may/23
+3348; marcos.martins ;Capacidade De Aprender; Execução;6.5;""Entrega consistente, mas falta comunicação""";March 10, 2023
+3349; bruno.pereira ;CAPACIDADE DE APRENDER; COMPORTAMENTAL;6,7;""Inovador, Mas Confuso""";02/05/2023
+3350; ricardo.ferreira ;Organização No Trabalho; Execução;Dez;Aprende rápido, mas esquece feedbacks;April 20, 2023
+3351; rafael.martins ;Atender Aos Prazos; COMPORTAMENTAL;;cumpre prazos, mas sem iniciativa;01/04/2023
+3352; jorge.oliveira ;RESILIENCIA NAS ADVERSIDADES; comportamental;9.2;RESPONSÁVEL, PORÉM INSEGURO;09.05.23
+3353; juliana.lima ;pensar fora da caixa; EXECUÇÃO;Dez;responsável, porém inseguro;10.04.23
+3354; carolina.souza ;pensar fora da caixa; Comportamental;8,6;""Reativo, Falta Proatividade""";14/apr/23
+3355; ana.costa ;FAZER MAIS COM MENOS; COMPORTAMENTAL;9.8;boa execução com erros pontuais;10/apr/23
+3356; joana.costa ;Atender Aos Prazos; Comportamental;6,7;RESPONSÁVEL, PORÉM INSEGURO;09.05.2023
+3357; joão.henrique ;Atender Aos Prazos; comportamental;9.3;Aprende Rápido, Mas Esquece Feedbacks;04/05/2023
+3358; mateus.souza ;entregar com qualidade; Execução;;reativo, falta proatividade;26/apr/23
+3359; sofia.souza ;Resiliencia Nas Adversidades; EXECUÇÃO;9,0;TRABALHO EM EQUIPE PRECISA MELHORAR;April 20, 2023
+3360; pedro.silva ;FAZER MAIS COM MENOS; comportamental;;""Entrega consistente, mas falta comunicação""";29/mar/23
+3361; mariana.oliveira ;SENTIMENTO DE DONO; comportamental;6.6;aprende rápido, mas esquece feedbacks;05/04/2023
+3362; clara.pereira ;Resiliencia Nas Adversidades; Comportamental;6.1;""REATIVO, FALTA PROATIVIDADE""";May 06, 2023
+3363; jorge.oliveira ;Ser "team player"; COMPORTAMENTAL;9.4;Trabalho em equipe precisa melhorar;27/apr/23
+3364; luiza.oliveira ;SENTIMENTO DE DONO; Comportamental;6,6;Boa execução com erros pontuais;19/mar/23
+3365; mariana.costa ;ENTREGAR COM QUALIDADE; comportamental;Oito;Reativo, Falta Proatividade;07.04.23
+3366; fernanda.henrique ;Fazer Mais Com Menos; Comportamental;;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;09.05.2023
+3367; clara.silva ;Resiliencia nas adversidades; Comportamental;7.6;Inovador, Mas Confuso;April 02, 2023
+3368; juliana.henrique ;Pensar Fora Da Caixa; comportamental;7.8;Inovador, mas confuso;06/05/2023
+3369;  ;Fazer Mais Com Menos; Execução;Sete;""CUMPRE PRAZOS, MAS SEM INICIATIVA""";08/apr/23
+3370; sofia.silva ;CAPACIDADE DE APRENDER; Execução;6,8;aprende rápido, mas esquece feedbacks;May 02, 2023
+3371; carolina.souza ;Pensar fora da caixa; comportamental;;Inovador, Mas Confuso;11/03/2023
+3372; pedro.silva ;CAPACIDADE DE APRENDER; Execução;9.7;Responsável, porém inseguro;01.04.2023
+3373; luiza.martins ;Sentimento De Dono; Execução;6.9;Trabalho Em Equipe Precisa Melhorar;24.03.2023
+3374; marcos.costa ;sentimento de dono; Comportamental;;Reativo, falta proatividade;May 06, 2023
+3375; juliana.henrique ;Resiliencia nas adversidades; execução;7.7;cumpre prazos, mas sem iniciativa;19/apr/23
+3376; luiza.oliveira ;Entregar Com Qualidade; execução;7,6;aprende rápido, mas esquece feedbacks;March 27, 2023
+3377; carlos.lima ;Pensar fora da caixa; comportamental;9.3;Organizado, Mas Às Vezes Desatento;10/04/2023
+3378; carolina.ferreira ;Fazer Mais Com Menos; EXECUÇÃO;8.7;Responsável, porém inseguro;14/apr/23
+3379; joão.silva ;sentimento de dono; Execução;7,8;organizado, mas às vezes desatento;May 05, 2023
+3380; ana.lima ;Entregar Com Qualidade; Execução;9.1;CRIATIVO, PORÉM POUCO CLARO;02.04.2023
+3381; pedro.oliveira ;Atender aos prazos; Execução;7.4;""inovador, mas confuso""";16/03/2023
+3382; marcos.lima ;atender aos prazos; Comportamental;;REATIVO, FALTA PROATIVIDADE;May 04, 2023
+3383; carolina.costa ;Organização no trabalho; COMPORTAMENTAL;6.9;INOVADOR, MAS CONFUSO;10/apr/23
+3384; ricardo.pereira ;Resiliencia Nas Adversidades; execução;Dez;CRIATIVO, PORÉM POUCO CLARO;10.04.23
+3385; mariana.ferreira ;SER "TEAM PLAYER"; Execução;;Responsável, porém inseguro;March 26, 2023
+3386; mateus.henrique ;Organização No Trabalho; Execução;;responsável, porém inseguro;29.04.23
+3387; mariana.mendes ;Pensar fora da caixa; comportamental;;Trabalho Em Equipe Precisa Melhorar;March 15, 2023
+3388; mateus.costa ;Organização no trabalho; COMPORTAMENTAL;Seis;boa execução com erros pontuais;March 17, 2023
+3389; juliana.oliveira ;entregar com qualidade; comportamental;Nove;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;March 23, 2023
+3390; eduardo.ferreira ;capacidade de aprender; Execução;6,1;REATIVO, FALTA PROATIVIDADE;08/apr/23
+3391; ana.costa ;PENSAR FORA DA CAIXA; EXECUÇÃO;Oito;ORGANIZADO, MAS ÀS VEZES DESATENTO;15/03/2023
+3392; fernanda.lima ;SER "TEAM PLAYER"; comportamental;8.5;Entrega Consistente, Mas Falta Comunicação;19/03/2023
+3393; ana.oliveira ;Ser "Team Player"; EXECUÇÃO;;organizado, mas às vezes desatento;19.03.23
+3394; fernanda.oliveira ;sentimento de dono; Comportamental;8,6;Boa Execução Com Erros Pontuais;05/apr/23
+3395; bruno.lima ;Fazer mais com menos; COMPORTAMENTAL;6.2;Entrega Consistente, Mas Falta Comunicação;19.03.2023
+3396;  ;Sentimento De Dono; Execução;;""Trabalho em equipe precisa melhorar""";March 17, 2023
+3397; joão.henrique ;Capacidade de aprender; comportamental;6.8;CUMPRE PRAZOS, MAS SEM INICIATIVA;19/04/2023
+3398; fernanda.silva ;SENTIMENTO DE DONO; Execução;8,2;Boa execução com erros pontuais;16.04.23
+3399; jorge.silva ;Fazer mais com menos; execução;;""Inovador, mas confuso""";05.04.2023
+3400; pedro.costa ;Ser "Team Player"; Comportamental;7.3;""Criativo, porém pouco claro""";22.03.2023
+3401; jorge.lima ;Organização No Trabalho; Execução;;Trabalho Em Equipe Precisa Melhorar;28/03/2023
+3402; jorge.silva ;Atender aos prazos; Execução;;entrega consistente, mas falta comunicação;03.05.2023
+3403; maria.souza ;SENTIMENTO DE DONO; Execução;7.2;criativo, porém pouco claro;April 17, 2023
+3404; joão.souza ;Resiliencia nas adversidades; Comportamental;;""Entrega consistente, mas falta comunicação""";06/apr/23
+3405; eduardo.oliveira ;Resiliencia Nas Adversidades; COMPORTAMENTAL;;criativo, porém pouco claro;11/apr/23
+3406; fernanda.souza ;resiliencia nas adversidades; EXECUÇÃO;Oito;entrega consistente, mas falta comunicação;03/04/2023
+3407; ricardo.henrique ;Organização no trabalho; Comportamental;;Aprende Rápido, Mas Esquece Feedbacks;14/apr/23
+3408; ana.oliveira ;organização no trabalho; Comportamental;9,0;CRIATIVO, PORÉM POUCO CLARO;01/may/23
+3409; carlos.silva ;Ser "team player"; Comportamental;7.5;Trabalho em equipe precisa melhorar;15.03.2023
+3410; luiza.souza ;Resiliencia nas adversidades; Comportamental;;Cumpre prazos, mas sem iniciativa;02.05.2023
+3411;  ;Sentimento de dono; Comportamental;9.1;trabalho em equipe precisa melhorar;14.04.23
+3412; mateus.henrique ;Entregar Com Qualidade; COMPORTAMENTAL;;Trabalho Em Equipe Precisa Melhorar;17.04.2023
+3413; ricardo.costa ;ATENDER AOS PRAZOS; COMPORTAMENTAL;;Boa Execução Com Erros Pontuais;16.03.23
+3414; jorge.mendes ;SER "TEAM PLAYER"; execução;Nove;entrega consistente, mas falta comunicação;19.03.23
+3415; clara.pereira ;Organização No Trabalho; execução;7,7;Criativo, porém pouco claro;March 16, 2023
+3416; fernanda.silva ;Capacidade De Aprender; Execução;7.9;""Inovador, mas confuso""";22.04.23
+3417; joão.martins ;ORGANIZAÇÃO NO TRABALHO; Execução;8.3;reativo, falta proatividade;20/04/2023
+3418; pedro.mendes ;Fazer Mais Com Menos; EXECUÇÃO;Nove;Trabalho Em Equipe Precisa Melhorar;21.03.23
+3419; fernanda.pereira ;Organização No Trabalho; comportamental;9,2;RESPONSÁVEL, PORÉM INSEGURO;19/04/2023
+3420; mateus.ferreira ;Organização No Trabalho; EXECUÇÃO;6.2;Inovador, Mas Confuso;26.04.2023
+3421; joão.costa ;PENSAR FORA DA CAIXA; execução;Nove;Cumpre prazos, mas sem iniciativa;25/mar/23
+3422; bruno.souza ;Organização no trabalho; Comportamental;9,1;""INOVADOR, MAS CONFUSO""";28/04/2023
+3423; mateus.costa ;ser "team player"; COMPORTAMENTAL;6.2;Cumpre Prazos, Mas Sem Iniciativa;22.03.2023
+3424; ricardo.silva ;Sentimento De Dono; comportamental;;inovador, mas confuso;09.04.23
+3425; bruno.oliveira ;fazer mais com menos; execução;9.1;""Inovador, mas confuso""";26.03.23
+3426; rafael.mendes ;Organização No Trabalho; Comportamental;8.3;inovador, mas confuso;13/apr/23
+3427; mateus.martins ;Fazer mais com menos; Execução;6.5;trabalho em equipe precisa melhorar;17.04.23
+3428; clara.costa ;Sentimento De Dono; execução;7,0;CRIATIVO, PORÉM POUCO CLARO;14/mar/23
+3429; juliana.martins ;Capacidade De Aprender; Execução;7,0;Entrega consistente, mas falta comunicação;08/04/2023
+3430; sofia.silva ;fazer mais com menos; COMPORTAMENTAL;8,9;Boa execução com erros pontuais;22.04.2023
+3431; ana.costa ;Organização no trabalho; execução;Sete;Criativo, porém pouco claro;08.05.23
+3432; marcos.oliveira ;sentimento de dono; Comportamental;9,9;CRIATIVO, PORÉM POUCO CLARO;18.04.23
+3433; clara.pereira ;capacidade de aprender; COMPORTAMENTAL;9.2;cumpre prazos, mas sem iniciativa;01/04/2023
+3434; eduardo.silva ;Atender aos prazos; EXECUÇÃO;6.3;""CRIATIVO, PORÉM POUCO CLARO""";17.03.23
+3435; mateus.ferreira ;Resiliencia Nas Adversidades; Execução;7.7;ORGANIZADO, MAS ÀS VEZES DESATENTO;15.04.2023
+3436; jorge.henrique ;FAZER MAIS COM MENOS; execução;7.8;""ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO""";26/03/2023
+3437; fernanda.henrique ;Organização No Trabalho; Comportamental;9,1;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;22/03/2023
+3438; carolina.ferreira ;Atender Aos Prazos; Execução;7.8;CUMPRE PRAZOS, MAS SEM INICIATIVA;22/04/2023
+3439; maria.lima ;pensar fora da caixa; EXECUÇÃO;9.6;""ORGANIZADO, MAS ÀS VEZES DESATENTO""";March 27, 2023
+3440; carolina.henrique ;ser "team player"; Comportamental;;boa execução com erros pontuais;14.04.23
+3441; pedro.lima ;capacidade de aprender; Comportamental;7,8;ORGANIZADO, MAS ÀS VEZES DESATENTO;17.03.23
+3442; sofia.silva ;resiliencia nas adversidades; Comportamental;Nove;ORGANIZADO, MAS ÀS VEZES DESATENTO;17/apr/23
+3443; carlos.ferreira ;Pensar Fora Da Caixa; Execução;Oito;Organizado, mas às vezes desatento;24.03.23
+3444; jorge.lima ;Fazer Mais Com Menos; EXECUÇÃO;Seis;TRABALHO EM EQUIPE PRECISA MELHORAR;08/05/2023
+3445; ricardo.mendes ;Ser "Team Player"; comportamental;;entrega consistente, mas falta comunicação;15/apr/23
+3446; bruno.lima ;PENSAR FORA DA CAIXA; Comportamental;Sete;""Boa execução com erros pontuais""";13.04.2023
+3447; clara.henrique ;ATENDER AOS PRAZOS; Execução;Sete;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;28/apr/23
+3448; rafael.oliveira ;ser "team player"; execução;;boa execução com erros pontuais;19/apr/23
+3449; mateus.costa ;CAPACIDADE DE APRENDER; execução;Nove;Cumpre Prazos, Mas Sem Iniciativa;27/04/2023
+3450; mateus.costa ;Entregar Com Qualidade; Execução;Nove;""REATIVO, FALTA PROATIVIDADE""";30.03.23
+3451; fernanda.mendes ;Organização No Trabalho; comportamental;Dez;Responsável, porém inseguro;09/apr/23
+3452; carolina.martins ;Entregar com qualidade; Comportamental;Sete;BOA EXECUÇÃO COM ERROS PONTUAIS;11.03.2023
+3453; marcos.costa ;Sentimento De Dono; Execução;Dez;""BOA EXECUÇÃO COM ERROS PONTUAIS""";27.03.2023
+3454; ana.pereira ;resiliencia nas adversidades; Comportamental;Seis;Reativo, Falta Proatividade;08/may/23
+3455; bruno.silva ;Fazer mais com menos; Comportamental;;Responsável, Porém Inseguro;26/apr/23
+3456; mateus.mendes ;Organização No Trabalho; Execução;6,7;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;01/05/2023
+3457; fernanda.mendes ;Entregar Com Qualidade; Execução;6,0;Organizado, mas às vezes desatento;March 19, 2023
+3458; pedro.henrique ;Organização No Trabalho; execução;Sete;Organizado, mas às vezes desatento;07/04/2023
+3459; maria.henrique ;RESILIENCIA NAS ADVERSIDADES; execução;9.1;""Criativo, porém pouco claro""";27.04.2023
+3460; carolina.souza ;Resiliencia Nas Adversidades; Execução;;Criativo, porém pouco claro;26/mar/23
+3461; mateus.souza ;atender aos prazos; COMPORTAMENTAL;6.6;""CRIATIVO, PORÉM POUCO CLARO""";20.04.23
+3462; mariana.pereira ;Sentimento De Dono; execução;Sete;Inovador, mas confuso;March 17, 2023
+3463; fernanda.ferreira ;CAPACIDADE DE APRENDER; COMPORTAMENTAL;;Inovador, mas confuso;28.04.2023
+3464; sofia.ferreira ;PENSAR FORA DA CAIXA; Execução;;""entrega consistente, mas falta comunicação""";09/apr/23
+3465; jorge.lima ;Capacidade de aprender; comportamental;Seis;Aprende rápido, mas esquece feedbacks;April 17, 2023
+3466; sofia.lima ;Pensar fora da caixa; EXECUÇÃO;;Responsável, porém inseguro;March 16, 2023
+3467; joana.ferreira ;Organização No Trabalho; Execução;6,8;Boa Execução Com Erros Pontuais;04.04.2023
+3468; sofia.ferreira ;RESILIENCIA NAS ADVERSIDADES; execução;7,1;Criativo, Porém Pouco Claro;08/05/2023
+3469; ricardo.martins ;fazer mais com menos; COMPORTAMENTAL;9.8;Entrega consistente, mas falta comunicação;22.04.23
+3470; rafael.ferreira ;Organização no trabalho; Execução;8.1;trabalho em equipe precisa melhorar;26/04/2023
+3471; carlos.ferreira ;Fazer Mais Com Menos; Comportamental;Sete;RESPONSÁVEL, PORÉM INSEGURO;20/apr/23
+3472;  ;capacidade de aprender; Comportamental;7,0;Aprende rápido, mas esquece feedbacks;13/apr/23
+3473; mateus.pereira ;SER "TEAM PLAYER"; Comportamental;7,5;""RESPONSÁVEL, PORÉM INSEGURO""";29/04/2023
+3474; joão.ferreira ;Ser "Team Player"; EXECUÇÃO;6,1;INOVADOR, MAS CONFUSO;April 25, 2023
+3475; mariana.souza ;Capacidade De Aprender; comportamental;Seis;criativo, porém pouco claro;15.04.2023
+3476; jorge.silva ;Capacidade de aprender; Comportamental;;Trabalho Em Equipe Precisa Melhorar;24/04/2023
+3477; clara.henrique ;Fazer mais com menos; Comportamental;8,9;Responsável, porém inseguro;16.04.2023
+3478; mateus.henrique ;pensar fora da caixa; execução;;ORGANIZADO, MAS ÀS VEZES DESATENTO;April 02, 2023
+3479; bruno.mendes ;RESILIENCIA NAS ADVERSIDADES; EXECUÇÃO;9,8;Boa execução com erros pontuais;20/apr/23
+3480;  ;resiliencia nas adversidades; EXECUÇÃO;7.1;CRIATIVO, PORÉM POUCO CLARO;13.03.23
+3481; joana.lima ;Sentimento de dono; comportamental;Dez;reativo, falta proatividade;27.03.2023
+3482; mateus.oliveira ;ser "team player"; Execução;;Responsável, porém inseguro;19/mar/23
+3483; ricardo.martins ;ATENDER AOS PRAZOS; Execução;7.7;Cumpre Prazos, Mas Sem Iniciativa;24/apr/23
+3484; carlos.silva ;Organização No Trabalho; Comportamental;6.7;""inovador, mas confuso""";10.04.2023
+3485; carolina.martins ;Fazer mais com menos; Execução;6.6;RESPONSÁVEL, PORÉM INSEGURO;29/03/2023
+3486; eduardo.oliveira ;resiliencia nas adversidades; COMPORTAMENTAL;6.8;""Entrega consistente, mas falta comunicação""";11.04.2023
+3487; joão.pereira ;Atender aos prazos; EXECUÇÃO;;Entrega consistente, mas falta comunicação;11.04.2023
+3488; carolina.silva ;Resiliencia nas adversidades; Comportamental;9,4;Trabalho em equipe precisa melhorar;06.05.23
+3489; eduardo.silva ;PENSAR FORA DA CAIXA; comportamental;8.2;trabalho em equipe precisa melhorar;11/04/2023
+3490; fernanda.lima ;Sentimento de dono; EXECUÇÃO;;inovador, mas confuso;15.03.2023
+3491; jorge.henrique ;ATENDER AOS PRAZOS; Comportamental;9,2;organizado, mas às vezes desatento;12/04/2023
+3492; carolina.souza ;Ser "Team Player"; Comportamental;Nove;criativo, porém pouco claro;09/04/2023
+3493; carolina.lima ;Entregar com qualidade; EXECUÇÃO;Oito;""Reativo, Falta Proatividade""";01/apr/23
+3494; ana.mendes ;atender aos prazos; Comportamental;9,1;BOA EXECUÇÃO COM ERROS PONTUAIS;01/may/23
+3495; mateus.oliveira ;atender aos prazos; EXECUÇÃO;6.9;RESPONSÁVEL, PORÉM INSEGURO;07/04/2023
+3496; juliana.martins ;ser "team player"; comportamental;7,4;Inovador, mas confuso;17/03/2023
+3497; juliana.ferreira ;RESILIENCIA NAS ADVERSIDADES; EXECUÇÃO;9.9;Entrega consistente, mas falta comunicação;26.03.23
+3498; ana.mendes ;RESILIENCIA NAS ADVERSIDADES; execução;6.7;Entrega consistente, mas falta comunicação;March 15, 2023
+3499; carolina.pereira ;SER "TEAM PLAYER"; execução;;Organizado, mas às vezes desatento;18.04.23
+3500; carolina.silva ;capacidade de aprender; execução;6.1;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;05/may/23
+3501; pedro.oliveira ;Sentimento de dono; comportamental;8.4;CRIATIVO, PORÉM POUCO CLARO;01/may/23
+3502; juliana.mendes ;atender aos prazos; execução;8,5;boa execução com erros pontuais;April 20, 2023
+3503; luiza.mendes ;ser "team player"; Execução;6.1;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;10/04/2023
+3504; juliana.ferreira ;PENSAR FORA DA CAIXA; Comportamental;;Boa execução com erros pontuais;21/03/2023
+3505; mateus.mendes ;ser "team player"; Execução;Oito;CUMPRE PRAZOS, MAS SEM INICIATIVA;11.03.23
+3506; jorge.costa ;RESILIENCIA NAS ADVERSIDADES; COMPORTAMENTAL;9.1;boa execução com erros pontuais;March 31, 2023
+3507; fernanda.costa ;Ser "team player"; Comportamental;Sete;aprende rápido, mas esquece feedbacks;30.03.2023
+3508; maria.silva ;atender aos prazos; Comportamental;9,6;Boa execução com erros pontuais;April 20, 2023
+3509; ricardo.pereira ;Organização no trabalho; Comportamental;;Inovador, Mas Confuso;23/apr/23
+3510; mateus.martins ;Organização No Trabalho; EXECUÇÃO;Dez;inovador, mas confuso;22.04.23
+3511; joana.pereira ;SENTIMENTO DE DONO; EXECUÇÃO;9.4;boa execução com erros pontuais;March 31, 2023
+3512; luiza.henrique ;Ser "Team Player"; execução;9,8;organizado, mas às vezes desatento;April 12, 2023
+3513; marcos.martins ;capacidade de aprender; Execução;8.3;Cumpre prazos, mas sem iniciativa;08.05.23
+3514; luiza.henrique ;RESILIENCIA NAS ADVERSIDADES; COMPORTAMENTAL;8.6;responsável, porém inseguro;23/apr/23
+3515; fernanda.ferreira ;SENTIMENTO DE DONO; Comportamental;Oito;Entrega Consistente, Mas Falta Comunicação;30/04/2023
+3516; juliana.lima ;SENTIMENTO DE DONO; Execução;10.0;Aprende Rápido, Mas Esquece Feedbacks;03/may/23
+3517; luiza.souza ;Sentimento de dono; EXECUÇÃO;6,8;INOVADOR, MAS CONFUSO;17.03.23
+3518; mariana.lima ;Organização No Trabalho; Comportamental;Dez;Organizado, mas às vezes desatento;10.04.23
+3519; mateus.souza ;fazer mais com menos; Comportamental;Sete;""Boa execução com erros pontuais""";15/apr/23
+3520; rafael.martins ;Entregar com qualidade; execução;;Criativo, porém pouco claro;09.05.23
+3521; jorge.lima ;ENTREGAR COM QUALIDADE; execução;Dez;""Entrega Consistente, Mas Falta Comunicação""";31/03/2023
+3522; clara.oliveira ;Organização No Trabalho; Comportamental;Sete;INOVADOR, MAS CONFUSO;29/mar/23
+3523; eduardo.silva ;resiliencia nas adversidades; COMPORTAMENTAL;;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;29/03/2023
+3524;  ;Pensar fora da caixa; comportamental;9,8;CRIATIVO, PORÉM POUCO CLARO;02/may/23
+3525; eduardo.pereira ;Atender Aos Prazos; execução;7,6;Aprende rápido, mas esquece feedbacks;15/apr/23
+3526; pedro.martins ;SER "TEAM PLAYER"; execução;9.4;trabalho em equipe precisa melhorar;27.04.2023
+3527; bruno.oliveira ;Atender Aos Prazos; Comportamental;8.3;TRABALHO EM EQUIPE PRECISA MELHORAR;03.04.2023
+3528; eduardo.oliveira ;atender aos prazos; comportamental;;Inovador, Mas Confuso;12.03.2023
+3529;  ;Fazer Mais Com Menos; Comportamental;Dez;Organizado, mas às vezes desatento;May 09, 2023
+3530; fernanda.lima ;SER "TEAM PLAYER"; Execução;7,3;""INOVADOR, MAS CONFUSO""";18.03.2023
+3531; ana.pereira ;PENSAR FORA DA CAIXA; Execução;;criativo, porém pouco claro;17.04.23
+3532; mateus.mendes ;resiliencia nas adversidades; Comportamental;;""inovador, mas confuso""";11/apr/23
+3533; sofia.oliveira ;SENTIMENTO DE DONO; execução;Seis;""Organizado, mas às vezes desatento""";April 30, 2023
+3534; jorge.henrique ;Atender Aos Prazos; COMPORTAMENTAL;8,3;Cumpre Prazos, Mas Sem Iniciativa;17/03/2023
+3535; carolina.costa ;Ser "team player"; comportamental;;INOVADOR, MAS CONFUSO;30.03.23
+3536; fernanda.silva ;Entregar Com Qualidade; execução;6,1;Boa Execução Com Erros Pontuais;April 03, 2023
+3537; joão.mendes ;CAPACIDADE DE APRENDER; Execução;8,0;""BOA EXECUÇÃO COM ERROS PONTUAIS""";31/mar/23
+3538; carlos.pereira ;Resiliencia Nas Adversidades; Execução;Sete;Responsável, Porém Inseguro;10.04.23
+3539; carolina.henrique ;FAZER MAIS COM MENOS; COMPORTAMENTAL;9.9;Trabalho em equipe precisa melhorar;14/04/2023
+3540; ana.henrique ;entregar com qualidade; Comportamental;;Inovador, Mas Confuso;31/mar/23
+3541; luiza.pereira ;Sentimento de dono; COMPORTAMENTAL;7,4;Inovador, mas confuso;25.04.2023
+3542; mariana.oliveira ;Atender aos prazos; Execução;Seis;trabalho em equipe precisa melhorar;18/04/2023
+3543; carlos.henrique ;PENSAR FORA DA CAIXA; Execução;Nove;responsável, porém inseguro;March 15, 2023
+3544; bruno.silva ;ser "team player"; EXECUÇÃO;7,6;BOA EXECUÇÃO COM ERROS PONTUAIS;21/apr/23
+3545; joana.silva ;FAZER MAIS COM MENOS; Execução;Seis;reativo, falta proatividade;04/04/2023
+3546; maria.martins ;RESILIENCIA NAS ADVERSIDADES; Execução;8,3;Organizado, mas às vezes desatento;06.04.23
+3547; mariana.silva ;capacidade de aprender; Execução;;TRABALHO EM EQUIPE PRECISA MELHORAR;08/05/2023
+3548; luiza.lima ;ser "team player"; comportamental;Nove;""Boa Execução Com Erros Pontuais""";17.04.23
+3549; juliana.oliveira ;Pensar fora da caixa; Comportamental;8.8;Entrega consistente, mas falta comunicação;24.03.23
+3550; juliana.lima ;SENTIMENTO DE DONO; Comportamental;;Organizado, mas às vezes desatento;21/apr/23
+3551; juliana.martins ;Fazer mais com menos; Comportamental;Dez;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;10/04/2023
+3552; joão.ferreira ;PENSAR FORA DA CAIXA; COMPORTAMENTAL;7.8;INOVADOR, MAS CONFUSO;15/apr/23
+3553; jorge.silva ;Sentimento De Dono; Comportamental;;""organizado, mas às vezes desatento""";April 23, 2023
+3554; bruno.oliveira ;Pensar Fora Da Caixa; Comportamental;6,7;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;March 13, 2023
+3555; eduardo.silva ;Resiliencia Nas Adversidades; EXECUÇÃO;7.5;Inovador, Mas Confuso;22/03/2023
+3556; bruno.oliveira ;ser "team player"; comportamental;;""Responsável, porém inseguro""";11.03.2023
+3557; carlos.souza ;Atender aos prazos; COMPORTAMENTAL;;""INOVADOR, MAS CONFUSO""";25/04/2023
+3558; carlos.oliveira ;pensar fora da caixa; EXECUÇÃO;Nove;TRABALHO EM EQUIPE PRECISA MELHORAR;25.04.2023
+3559; bruno.mendes ;Pensar Fora Da Caixa; Comportamental;Sete;REATIVO, FALTA PROATIVIDADE;08/05/2023
+3560; juliana.henrique ;Ser "team player"; EXECUÇÃO;;Criativo, Porém Pouco Claro;24.04.2023
+3561; fernanda.ferreira ;Ser "team player"; Execução;Sete;""cumpre prazos, mas sem iniciativa""";March 20, 2023
+3562; maria.mendes ;fazer mais com menos; comportamental;8.2;TRABALHO EM EQUIPE PRECISA MELHORAR;03/04/2023
+3563;  ;ser "team player"; execução;9,2;Aprende Rápido, Mas Esquece Feedbacks;08/05/2023
+3564; maria.costa ;pensar fora da caixa; Execução;;cumpre prazos, mas sem iniciativa;01.04.23
+3565; joana.ferreira ;Organização No Trabalho; COMPORTAMENTAL;8.9;Inovador, Mas Confuso;10.04.2023
+3566;  ;fazer mais com menos; execução;Oito;Entrega Consistente, Mas Falta Comunicação;05.05.2023
+3567; carlos.henrique ;Atender Aos Prazos; execução;Seis;Responsável, Porém Inseguro;19.04.2023
+3568; fernanda.ferreira ;RESILIENCIA NAS ADVERSIDADES; execução;9.1;Cumpre Prazos, Mas Sem Iniciativa;15.04.23
+3569; mateus.pereira ;ser "team player"; Comportamental;8.0;""Trabalho Em Equipe Precisa Melhorar""";20.03.23
+3570; ana.pereira ;resiliencia nas adversidades; Execução;;Aprende rápido, mas esquece feedbacks;April 27, 2023
+3571; jorge.souza ;ORGANIZAÇÃO NO TRABALHO; Comportamental;7.6;Boa execução com erros pontuais;08.04.23
+3572; ricardo.lima ;resiliencia nas adversidades; Comportamental;Dez;Criativo, Porém Pouco Claro;14/mar/23
+3573; pedro.costa ;Resiliencia Nas Adversidades; comportamental;Sete;Aprende rápido, mas esquece feedbacks;08/05/2023
+3574; eduardo.pereira ;RESILIENCIA NAS ADVERSIDADES; Execução;6,5;Trabalho Em Equipe Precisa Melhorar;04/05/2023
+3575; joão.martins ;Organização no trabalho; Execução;7,5;Entrega consistente, mas falta comunicação;March 26, 2023
+3576; fernanda.silva ;Organização no trabalho; Comportamental;;entrega consistente, mas falta comunicação;March 26, 2023
+3577; mariana.oliveira ;Sentimento de dono; Comportamental;8,6;""entrega consistente, mas falta comunicação""";14/04/2023
+3578; fernanda.martins ;ATENDER AOS PRAZOS; COMPORTAMENTAL;6.0;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;14/04/2023
+3579; joão.henrique ;Resiliencia nas adversidades; execução;7,4;INOVADOR, MAS CONFUSO;23/apr/23
+3580; sofia.henrique ;fazer mais com menos; EXECUÇÃO;8,0;boa execução com erros pontuais;March 15, 2023
+3581; clara.pereira ;entregar com qualidade; COMPORTAMENTAL;;""Aprende Rápido, Mas Esquece Feedbacks""";14/03/2023
+3582; jorge.oliveira ;Sentimento de dono; Comportamental;7,1;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;11.04.2023
+3583; maria.lima ;ORGANIZAÇÃO NO TRABALHO; comportamental;8.5;TRABALHO EM EQUIPE PRECISA MELHORAR;22/04/2023
+3584; joana.mendes ;capacidade de aprender; Execução;Sete;""Organizado, mas às vezes desatento""";07/05/2023
+3585; mateus.martins ;Ser "team player"; Execução;8.7;Cumpre prazos, mas sem iniciativa;29.04.2023
+3586; ana.lima ;Pensar Fora Da Caixa; comportamental;9,2;criativo, porém pouco claro;18/apr/23
+3587; carolina.ferreira ;Entregar Com Qualidade; Comportamental;8.8;CRIATIVO, PORÉM POUCO CLARO;05/apr/23
+3588; joana.henrique ;resiliencia nas adversidades; execução;6,8;Entrega Consistente, Mas Falta Comunicação;27/mar/23
+3589; mateus.pereira ;Fazer mais com menos; comportamental;7.2;""reativo, falta proatividade""";26.04.2023
+3590; ana.martins ;PENSAR FORA DA CAIXA; COMPORTAMENTAL;9,6;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;30.03.2023
+3591; ana.silva ;Pensar Fora Da Caixa; Comportamental;6,7;""Aprende rápido, mas esquece feedbacks""";26.04.2023
+3592; luiza.oliveira ;pensar fora da caixa; Comportamental;Seis;""CRIATIVO, PORÉM POUCO CLARO""";06/04/2023
+3593; maria.silva ;pensar fora da caixa; Execução;6,2;REATIVO, FALTA PROATIVIDADE;04/may/23
+3594; jorge.oliveira ;Fazer mais com menos; Comportamental;;BOA EXECUÇÃO COM ERROS PONTUAIS;24.03.23
+3595; mariana.mendes ;Resiliencia nas adversidades; COMPORTAMENTAL;;Organizado, Mas Às Vezes Desatento;27/04/2023
+3596; marcos.henrique ;Resiliencia Nas Adversidades; execução;9.0;Responsável, Porém Inseguro;April 29, 2023
+3597; mateus.costa ;RESILIENCIA NAS ADVERSIDADES; comportamental;Dez;entrega consistente, mas falta comunicação;29/03/2023
+3598; clara.costa ;Resiliencia nas adversidades; Comportamental;;Aprende Rápido, Mas Esquece Feedbacks;May 03, 2023
+3599; joana.mendes ;organização no trabalho; execução;;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;31.03.23
+3600; pedro.ferreira ;Organização no trabalho; Comportamental;6,7;entrega consistente, mas falta comunicação;18.04.23
+3601; jorge.martins ;Ser "team player"; execução;8.2;""Responsável, porém inseguro""";18.04.2023
+3602; clara.pereira ;Sentimento De Dono; Execução;;ORGANIZADO, MAS ÀS VEZES DESATENTO;April 05, 2023
+3603; maria.lima ;RESILIENCIA NAS ADVERSIDADES; EXECUÇÃO;6,4;""Entrega Consistente, Mas Falta Comunicação""";April 24, 2023
+3604; sofia.silva ;Organização No Trabalho; Execução;Sete;trabalho em equipe precisa melhorar;04/may/23
+3605; carlos.silva ;Pensar Fora Da Caixa; execução;8.2;RESPONSÁVEL, PORÉM INSEGURO;28/04/2023
+3606; rafael.silva ;ATENDER AOS PRAZOS; Comportamental;;cumpre prazos, mas sem iniciativa;14/04/2023
+3607; maria.silva ;organização no trabalho; Comportamental;;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;12/04/2023
+3608; clara.ferreira ;Resiliencia nas adversidades; Execução;6,8;""aprende rápido, mas esquece feedbacks""";16/04/2023
+3609; joana.souza ;FAZER MAIS COM MENOS; Comportamental;;CUMPRE PRAZOS, MAS SEM INICIATIVA;March 13, 2023
+3610; ricardo.henrique ;Organização No Trabalho; Execução;6,4;Reativo, Falta Proatividade;23/mar/23
+3611;  ;Sentimento de dono; execução;9,7;""Cumpre prazos, mas sem iniciativa""";30/03/2023
+3612; bruno.pereira ;Resiliencia nas adversidades; EXECUÇÃO;9,6;Trabalho Em Equipe Precisa Melhorar;14.04.23
+3613; luiza.costa ;resiliencia nas adversidades; execução;Oito;ORGANIZADO, MAS ÀS VEZES DESATENTO;April 11, 2023
+3614; mariana.martins ;Fazer Mais Com Menos; EXECUÇÃO;6,6;REATIVO, FALTA PROATIVIDADE;March 24, 2023
+3615; carlos.pereira ;capacidade de aprender; Comportamental;Nove;""CRIATIVO, PORÉM POUCO CLARO""";April 13, 2023
+3616; jorge.souza ;RESILIENCIA NAS ADVERSIDADES; Execução;;Reativo, Falta Proatividade;March 27, 2023
+3617; mateus.henrique ;ATENDER AOS PRAZOS; execução;9.7;Boa execução com erros pontuais;21.04.2023
+3618; juliana.ferreira ;Entregar com qualidade; execução;7,5;Inovador, mas confuso;March 20, 2023
+3619; luiza.oliveira ;PENSAR FORA DA CAIXA; execução;8.6;Entrega consistente, mas falta comunicação;03/05/2023
+3620; fernanda.martins ;Atender Aos Prazos; comportamental;Oito;Inovador, Mas Confuso;02.04.2023
+3621; ana.silva ;Ser "team player"; Execução;Dez;TRABALHO EM EQUIPE PRECISA MELHORAR;02.04.23
+3622; maria.souza ;fazer mais com menos; COMPORTAMENTAL;8,5;REATIVO, FALTA PROATIVIDADE;29/apr/23
+3623; joão.oliveira ;Organização no trabalho; execução;Dez;Trabalho em equipe precisa melhorar;March 23, 2023
+3624; rafael.henrique ;fazer mais com menos; Comportamental;;""Criativo, Porém Pouco Claro""";28.03.2023
+3625; juliana.costa ;Entregar Com Qualidade; Execução;6.8;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;22.04.23
+3626; sofia.souza ;ser "team player"; execução;9.8;entrega consistente, mas falta comunicação;29/03/2023
+3627; juliana.ferreira ;Capacidade de aprender; EXECUÇÃO;Dez;Criativo, porém pouco claro;27/apr/23
+3628; rafael.silva ;ORGANIZAÇÃO NO TRABALHO; Comportamental;Sete;Criativo, porém pouco claro;12.03.2023
+3629; eduardo.martins ;Sentimento de dono; EXECUÇÃO;;INOVADOR, MAS CONFUSO;March 28, 2023
+3630; juliana.souza ;capacidade de aprender; Execução;8.5;Aprende rápido, mas esquece feedbacks;April 27, 2023
+3631; jorge.oliveira ;Sentimento de dono; comportamental;8,7;Trabalho Em Equipe Precisa Melhorar;10.04.2023
+3632; marcos.lima ;Capacidade De Aprender; Execução;8,2;Responsável, porém inseguro;11.04.2023
+3633; jorge.souza ;Pensar fora da caixa; Execução;;trabalho em equipe precisa melhorar;14.03.2023
+3634; clara.pereira ;Sentimento de dono; Comportamental;;Aprende Rápido, Mas Esquece Feedbacks;15/mar/23
+3635; marcos.lima ;ATENDER AOS PRAZOS; Comportamental;8,5;INOVADOR, MAS CONFUSO;30.04.23
+3636; eduardo.costa ;pensar fora da caixa; EXECUÇÃO;Nove;REATIVO, FALTA PROATIVIDADE;09.04.2023
+3637; marcos.silva ;Pensar Fora Da Caixa; Comportamental;;""criativo, porém pouco claro""";27/mar/23
+3638; mateus.souza ;ATENDER AOS PRAZOS; Comportamental;Seis;Entrega Consistente, Mas Falta Comunicação;25/04/2023
+3639; carlos.ferreira ;Pensar fora da caixa; Execução;Seis;Entrega consistente, mas falta comunicação;07/04/2023
+3640; maria.pereira ;Resiliencia nas adversidades; COMPORTAMENTAL;7,0;aprende rápido, mas esquece feedbacks;21.03.23
+3641; pedro.oliveira ;PENSAR FORA DA CAIXA; Execução;Seis;Entrega Consistente, Mas Falta Comunicação;April 20, 2023
+3642; fernanda.martins ;atender aos prazos; execução;;trabalho em equipe precisa melhorar;04/04/2023
+3643; juliana.mendes ;Fazer Mais Com Menos; EXECUÇÃO;9.7;""Inovador, mas confuso""";15.04.23
+3644; carlos.costa ;ENTREGAR COM QUALIDADE; Execução;Dez;Boa Execução Com Erros Pontuais;02/apr/23
+3645;  ;fazer mais com menos; comportamental;7,8;""Trabalho em equipe precisa melhorar""";23.03.2023
+3646; carlos.oliveira ;Sentimento de dono; EXECUÇÃO;;Entrega Consistente, Mas Falta Comunicação;30.03.2023
+3647; luiza.pereira ;pensar fora da caixa; Execução;;""boa execução com erros pontuais""";23/03/2023
+3648; eduardo.ferreira ;ENTREGAR COM QUALIDADE; Execução;Dez;Aprende rápido, mas esquece feedbacks;27.03.23
+3649; ana.souza ;FAZER MAIS COM MENOS; COMPORTAMENTAL;Nove;CUMPRE PRAZOS, MAS SEM INICIATIVA;April 16, 2023
+3650; marcos.ferreira ;Entregar Com Qualidade; Comportamental;9,8;REATIVO, FALTA PROATIVIDADE;06.05.23
+3651; maria.martins ;ENTREGAR COM QUALIDADE; comportamental;9,1;Boa Execução Com Erros Pontuais;08/05/2023
+3652; bruno.silva ;atender aos prazos; EXECUÇÃO;7.2;""REATIVO, FALTA PROATIVIDADE""";31/03/2023
+3653; joana.lima ;Atender Aos Prazos; Execução;9.8;Boa Execução Com Erros Pontuais;17.03.23
+3654; joana.oliveira ;Organização No Trabalho; Comportamental;7,3;Criativo, Porém Pouco Claro;14.04.2023
+3655; clara.martins ;PENSAR FORA DA CAIXA; comportamental;9.0;inovador, mas confuso;01/apr/23
+3656; pedro.silva ;ENTREGAR COM QUALIDADE; Comportamental;9.9;RESPONSÁVEL, PORÉM INSEGURO;March 26, 2023
+3657; carlos.henrique ;Organização no trabalho; comportamental;9,7;inovador, mas confuso;23/03/2023
+3658; mariana.mendes ;Sentimento de dono; execução;;inovador, mas confuso;28.03.2023
+3659; juliana.oliveira ;ENTREGAR COM QUALIDADE; Comportamental;Sete;""cumpre prazos, mas sem iniciativa""";27/04/2023
+3660; marcos.ferreira ;Organização No Trabalho; Comportamental;;Inovador, Mas Confuso;02.05.23
+3661; ana.souza ;PENSAR FORA DA CAIXA; COMPORTAMENTAL;6.1;""Trabalho Em Equipe Precisa Melhorar""";01.05.2023
+3662; joão.silva ;SER "TEAM PLAYER"; Comportamental;Dez;Aprende rápido, mas esquece feedbacks;May 04, 2023
+3663; mariana.martins ;pensar fora da caixa; Execução;8.0;entrega consistente, mas falta comunicação;06.04.23
+3664; ana.pereira ;CAPACIDADE DE APRENDER; EXECUÇÃO;8.7;Entrega consistente, mas falta comunicação;14/apr/23
+3665; juliana.oliveira ;SENTIMENTO DE DONO; Comportamental;Sete;boa execução com erros pontuais;27.03.2023
+3666; marcos.costa ;Resiliencia Nas Adversidades; execução;9,3;Reativo, Falta Proatividade;09/05/2023
+3667; carlos.ferreira ;Ser "Team Player"; COMPORTAMENTAL;6.7;trabalho em equipe precisa melhorar;17.04.23
+3668; jorge.martins ;fazer mais com menos; Comportamental;7.4;entrega consistente, mas falta comunicação;April 20, 2023
+3669; juliana.souza ;ENTREGAR COM QUALIDADE; Execução;9,1;inovador, mas confuso;22.03.2023
+3670; eduardo.costa ;Sentimento de dono; execução;;""CUMPRE PRAZOS, MAS SEM INICIATIVA""";07/may/23
+3671; mariana.lima ;atender aos prazos; EXECUÇÃO;;Trabalho Em Equipe Precisa Melhorar;07.05.23
+3672; mateus.henrique ;organização no trabalho; Comportamental;;TRABALHO EM EQUIPE PRECISA MELHORAR;27.03.23
+3673; joana.souza ;ATENDER AOS PRAZOS; Comportamental;;TRABALHO EM EQUIPE PRECISA MELHORAR;30/apr/23
+3674; maria.ferreira ;Fazer mais com menos; Comportamental;;inovador, mas confuso;07/05/2023
+3675; maria.martins ;Organização No Trabalho; EXECUÇÃO;Dez;Responsável, Porém Inseguro;08.04.2023
+3676; eduardo.pereira ;SER "TEAM PLAYER"; Comportamental;Oito;Aprende Rápido, Mas Esquece Feedbacks;18/apr/23
+3677; mateus.lima ;ENTREGAR COM QUALIDADE; comportamental;7.8;trabalho em equipe precisa melhorar;03/05/2023
+3678; maria.lima ;SER "TEAM PLAYER"; execução;;Inovador, mas confuso;March 27, 2023
+3679; marcos.pereira ;Entregar com qualidade; Execução;9,5;CUMPRE PRAZOS, MAS SEM INICIATIVA;11.03.2023
+3680; clara.silva ;ENTREGAR COM QUALIDADE; COMPORTAMENTAL;8,4;Criativo, Porém Pouco Claro;March 17, 2023
+3681; carolina.souza ;ENTREGAR COM QUALIDADE; COMPORTAMENTAL;Dez;Responsável, Porém Inseguro;30.03.2023
+3682; luiza.henrique ;Capacidade de aprender; execução;;ORGANIZADO, MAS ÀS VEZES DESATENTO;03.05.23
+3683; bruno.costa ;atender aos prazos; COMPORTAMENTAL;;reativo, falta proatividade;31.03.23
+3684; mateus.henrique ;Entregar com qualidade; Execução;8.8;Entrega Consistente, Mas Falta Comunicação;03.04.23
+3685; jorge.oliveira ;Ser "team player"; Execução;7.0;Reativo, Falta Proatividade;14.04.23
+3686; rafael.mendes ;Capacidade De Aprender; COMPORTAMENTAL;Oito;RESPONSÁVEL, PORÉM INSEGURO;23.04.2023
+3687; jorge.martins ;Pensar fora da caixa; comportamental;;organizado, mas às vezes desatento;02.04.2023
+3688; clara.martins ;Fazer Mais Com Menos; Comportamental;;RESPONSÁVEL, PORÉM INSEGURO;24.04.23
+3689; sofia.henrique ;Sentimento De Dono; Comportamental;Sete;criativo, porém pouco claro;April 03, 2023
+3690; mariana.souza ;Entregar com qualidade; execução;Dez;organizado, mas às vezes desatento;06/apr/23
+3691; ricardo.souza ;sentimento de dono; Comportamental;;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;04.05.23
+3692; juliana.pereira ;capacidade de aprender; Comportamental;;Entrega Consistente, Mas Falta Comunicação;09.05.2023
+3693; luiza.ferreira ;Sentimento de dono; comportamental;;""responsável, porém inseguro""";29/03/2023
+3694; pedro.oliveira ;RESILIENCIA NAS ADVERSIDADES; Execução;7.2;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;23/mar/23
+3695; eduardo.martins ;SER "TEAM PLAYER"; Execução;6.4;Boa execução com erros pontuais;18.03.23
+3696; carolina.lima ;Fazer Mais Com Menos; EXECUÇÃO;;Entrega Consistente, Mas Falta Comunicação;14/03/2023
+3697; ana.henrique ;PENSAR FORA DA CAIXA; Execução;6,4;Inovador, mas confuso;14/mar/23
+3698; eduardo.silva ;pensar fora da caixa; Execução;;boa execução com erros pontuais;19/apr/23
+3699; rafael.martins ;RESILIENCIA NAS ADVERSIDADES; Execução;8,8;Trabalho Em Equipe Precisa Melhorar;April 27, 2023
+3700; jorge.pereira ;SENTIMENTO DE DONO; execução;Sete;""Organizado, Mas Às Vezes Desatento""";02/apr/23
+3701; marcos.ferreira ;sentimento de dono; Execução;Dez;ORGANIZADO, MAS ÀS VEZES DESATENTO;April 16, 2023
+3702; ana.martins ;organização no trabalho; EXECUÇÃO;;""reativo, falta proatividade""";21.04.23
+3703; mateus.mendes ;Fazer mais com menos; execução;;""trabalho em equipe precisa melhorar""";10/mar/23
+3704; fernanda.oliveira ;RESILIENCIA NAS ADVERSIDADES; Execução;9,0;""reativo, falta proatividade""";22/03/2023
+3705; ana.lima ;fazer mais com menos; Execução;Sete;RESPONSÁVEL, PORÉM INSEGURO;30/04/2023
+3706; maria.lima ;ser "team player"; Execução;8.3;Cumpre prazos, mas sem iniciativa;26.03.23
+3707; bruno.oliveira ;capacidade de aprender; Comportamental;Sete;aprende rápido, mas esquece feedbacks;28.03.2023
+3708; clara.mendes ;ORGANIZAÇÃO NO TRABALHO; comportamental;9.8;CRIATIVO, PORÉM POUCO CLARO;16.04.2023
+3709; jorge.martins ;SENTIMENTO DE DONO; Comportamental;9,9;""aprende rápido, mas esquece feedbacks""";May 09, 2023
+3710; pedro.mendes ;SER "TEAM PLAYER"; Execução;;""REATIVO, FALTA PROATIVIDADE""";23/apr/23
+3711; joão.oliveira ;Entregar com qualidade; execução;Oito;Inovador, mas confuso;04.04.23
+3712; juliana.mendes ;Organização no trabalho; comportamental;9,4;""REATIVO, FALTA PROATIVIDADE""";04/04/2023
+3713; mariana.ferreira ;Atender Aos Prazos; Comportamental;7.9;REATIVO, FALTA PROATIVIDADE;April 22, 2023
+3714; pedro.mendes ;entregar com qualidade; Execução;10.0;""REATIVO, FALTA PROATIVIDADE""";07.04.23
+3715; marcos.silva ;ENTREGAR COM QUALIDADE; Execução;;Entrega Consistente, Mas Falta Comunicação;14.04.2023
+3716; sofia.souza ;Organização no trabalho; execução;7.2;ORGANIZADO, MAS ÀS VEZES DESATENTO;March 24, 2023
+3717; jorge.silva ;Entregar Com Qualidade; execução;9,8;cumpre prazos, mas sem iniciativa;12/03/2023
+3718; pedro.silva ;Organização no trabalho; Execução;8.6;Boa execução com erros pontuais;03/05/2023
+3719; rafael.souza ;Resiliencia Nas Adversidades; Execução;6,4;Entrega consistente, mas falta comunicação;10/03/2023
+3720; mateus.henrique ;pensar fora da caixa; Execução;;responsável, porém inseguro;24.04.23
+3721; marcos.costa ;SENTIMENTO DE DONO; execução;7,7;TRABALHO EM EQUIPE PRECISA MELHORAR;07.04.2023
+3722; mariana.pereira ;Resiliencia nas adversidades; Comportamental;;aprende rápido, mas esquece feedbacks;26/04/2023
+3723; ricardo.henrique ;ORGANIZAÇÃO NO TRABALHO; EXECUÇÃO;9,2;Organizado, mas às vezes desatento;01/apr/23
+3724; joão.silva ;Resiliencia Nas Adversidades; Execução;;""CRIATIVO, PORÉM POUCO CLARO""";24.04.2023
+3725; ana.mendes ;Sentimento De Dono; Execução;9,5;""Responsável, porém inseguro""";26.04.23
+3726; carlos.henrique ;ORGANIZAÇÃO NO TRABALHO; Comportamental;Dez;""Trabalho Em Equipe Precisa Melhorar""";12.04.23
+3727; bruno.lima ;ENTREGAR COM QUALIDADE; Comportamental;Dez;""Criativo, Porém Pouco Claro""";04/04/2023
+3728; eduardo.costa ;ORGANIZAÇÃO NO TRABALHO; COMPORTAMENTAL;Seis;REATIVO, FALTA PROATIVIDADE;26.03.23
+3729; carlos.souza ;FAZER MAIS COM MENOS; Comportamental;7,8;INOVADOR, MAS CONFUSO;12.04.2023
+3730; carolina.martins ;sentimento de dono; EXECUÇÃO;Seis;Cumpre prazos, mas sem iniciativa;24/03/2023
+3731; sofia.pereira ;FAZER MAIS COM MENOS; COMPORTAMENTAL;;TRABALHO EM EQUIPE PRECISA MELHORAR;18.04.2023
+3732; ana.souza ;Fazer mais com menos; Comportamental;8,8;REATIVO, FALTA PROATIVIDADE;23.03.2023
+3733; rafael.martins ;Fazer Mais Com Menos; comportamental;6,4;""trabalho em equipe precisa melhorar""";03.05.23
+3734; rafael.lima ;pensar fora da caixa; EXECUÇÃO;Seis;Trabalho em equipe precisa melhorar;28.03.2023
+3735; ricardo.pereira ;ser "team player"; Execução;8.6;cumpre prazos, mas sem iniciativa;09/may/23
+3736; pedro.ferreira ;organização no trabalho; comportamental;Nove;boa execução com erros pontuais;April 11, 2023
+3737; pedro.ferreira ;Sentimento De Dono; COMPORTAMENTAL;;Entrega consistente, mas falta comunicação;May 04, 2023
+3738; marcos.lima ;organização no trabalho; COMPORTAMENTAL;7,4;""cumpre prazos, mas sem iniciativa""";15/04/2023
+3739; joana.costa ;CAPACIDADE DE APRENDER; Execução;7.5;Aprende rápido, mas esquece feedbacks;25/apr/23
+3740; carolina.henrique ;Resiliencia nas adversidades; Execução;;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;04/04/2023
+3741; ana.mendes ;entregar com qualidade; comportamental;9.8;reativo, falta proatividade;April 22, 2023
+3742; carlos.silva ;Capacidade De Aprender; EXECUÇÃO;Oito;inovador, mas confuso;20.03.2023
+3743; eduardo.lima ;Resiliencia nas adversidades; Comportamental;Dez;Inovador, Mas Confuso;06.05.23
+3744; fernanda.ferreira ;Entregar Com Qualidade; comportamental;Sete;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;May 05, 2023
+3745;  ;pensar fora da caixa; comportamental;;Criativo, Porém Pouco Claro;21.03.23
+3746; fernanda.martins ;fazer mais com menos; Comportamental;;Cumpre prazos, mas sem iniciativa;11/mar/23
+3747; luiza.souza ;atender aos prazos; Execução;9.1;BOA EXECUÇÃO COM ERROS PONTUAIS;13.04.2023
+3748; mateus.lima ;Organização no trabalho; COMPORTAMENTAL;8.6;BOA EXECUÇÃO COM ERROS PONTUAIS;21/apr/23
+3749; carolina.lima ;Atender Aos Prazos; comportamental;;""Trabalho em equipe precisa melhorar""";25.04.2023
+3750; mateus.lima ;RESILIENCIA NAS ADVERSIDADES; Execução;7,4;criativo, porém pouco claro;24/apr/23
+3751; fernanda.mendes ;resiliencia nas adversidades; comportamental;8.1;Responsável, Porém Inseguro;23/03/2023
+3752; mateus.ferreira ;FAZER MAIS COM MENOS; comportamental;9,0;Cumpre Prazos, Mas Sem Iniciativa;02.04.2023
+3753; jorge.mendes ;Pensar fora da caixa; COMPORTAMENTAL;Seis;CUMPRE PRAZOS, MAS SEM INICIATIVA;27.03.23
+3754; bruno.lima ;ser "team player"; execução;6,8;Trabalho em equipe precisa melhorar;28.04.23
+3755; clara.lima ;sentimento de dono; EXECUÇÃO;8,6;Trabalho Em Equipe Precisa Melhorar;March 16, 2023
+3756; ana.mendes ;fazer mais com menos; Comportamental;Nove;Entrega consistente, mas falta comunicação;17.03.2023
+3757; luiza.souza ;Atender Aos Prazos; EXECUÇÃO;;Responsável, Porém Inseguro;April 07, 2023
+3758; ricardo.henrique ;sentimento de dono; Execução;Dez;Entrega Consistente, Mas Falta Comunicação;March 19, 2023
+3759; jorge.oliveira ;Pensar fora da caixa; Comportamental;Oito;""Boa Execução Com Erros Pontuais""";02/apr/23
+3760; pedro.souza ;Fazer Mais Com Menos; comportamental;8.7;""Trabalho em equipe precisa melhorar""";15.04.23
+3761; carolina.henrique ;Capacidade De Aprender; Comportamental;;Cumpre Prazos, Mas Sem Iniciativa;29/03/2023
+3762; rafael.lima ;entregar com qualidade; COMPORTAMENTAL;Seis;Organizado, Mas Às Vezes Desatento;03/apr/23
+3763; maria.pereira ;SENTIMENTO DE DONO; Comportamental;7.6;""TRABALHO EM EQUIPE PRECISA MELHORAR""";12.04.23
+3764; ana.ferreira ;Pensar Fora Da Caixa; Comportamental;;Cumpre Prazos, Mas Sem Iniciativa;30/mar/23
+3765; clara.oliveira ;Ser "team player"; execução;Nove;Aprende rápido, mas esquece feedbacks;13/apr/23
+3766; fernanda.oliveira ;Fazer Mais Com Menos; comportamental;;BOA EXECUÇÃO COM ERROS PONTUAIS;06.05.23
+3767; bruno.silva ;capacidade de aprender; Comportamental;;Trabalho Em Equipe Precisa Melhorar;20.03.23
+3768; jorge.oliveira ;Pensar fora da caixa; Comportamental;Dez;Aprende Rápido, Mas Esquece Feedbacks;25/04/2023
+3769; pedro.oliveira ;FAZER MAIS COM MENOS; comportamental;Nove;""Inovador, Mas Confuso""";March 12, 2023
+3770; clara.henrique ;entregar com qualidade; execução;7.1;reativo, falta proatividade;22.04.23
+3771; luiza.lima ;Entregar com qualidade; Execução;8.9;""ORGANIZADO, MAS ÀS VEZES DESATENTO""";April 24, 2023
+3772; pedro.pereira ;Entregar com qualidade; execução;9,0;""criativo, porém pouco claro""";13.04.2023
+3773; carolina.ferreira ;Entregar com qualidade; COMPORTAMENTAL;Nove;Entrega Consistente, Mas Falta Comunicação;March 31, 2023
+3774; maria.souza ;CAPACIDADE DE APRENDER; Execução;;cumpre prazos, mas sem iniciativa;April 16, 2023
+3775; maria.souza ;ORGANIZAÇÃO NO TRABALHO; Execução;9.5;RESPONSÁVEL, PORÉM INSEGURO;07.04.2023
+3776; fernanda.costa ;ATENDER AOS PRAZOS; Execução;;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;March 14, 2023
+3777; eduardo.costa ;ENTREGAR COM QUALIDADE; execução;6.2;organizado, mas às vezes desatento;03/04/2023
+3778; juliana.pereira ;ORGANIZAÇÃO NO TRABALHO; comportamental;;boa execução com erros pontuais;13/mar/23
+3779; marcos.oliveira ;Atender Aos Prazos; comportamental;6.6;Aprende rápido, mas esquece feedbacks;19.04.2023
+3780; jorge.lima ;sentimento de dono; execução;7,0;Entrega consistente, mas falta comunicação;27/03/2023
+3781; mateus.ferreira ;Resiliencia nas adversidades; COMPORTAMENTAL;;Cumpre prazos, mas sem iniciativa;02.04.2023
+3782; mariana.oliveira ;Resiliencia Nas Adversidades; EXECUÇÃO;Oito;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;06/05/2023
+3783; bruno.silva ;ORGANIZAÇÃO NO TRABALHO; Comportamental;;Inovador, mas confuso;25/mar/23
+3784; rafael.pereira ;Ser "Team Player"; comportamental;;Aprende Rápido, Mas Esquece Feedbacks;21.04.2023
+3785; juliana.silva ;Ser "Team Player"; Comportamental;;Inovador, Mas Confuso;29/apr/23
+3786; mariana.souza ;Capacidade De Aprender; Comportamental;9.3;RESPONSÁVEL, PORÉM INSEGURO;17.04.2023
+3787; joana.mendes ;Resiliencia Nas Adversidades; execução;;entrega consistente, mas falta comunicação;08/05/2023
+3788;  ;CAPACIDADE DE APRENDER; Execução;8,0;RESPONSÁVEL, PORÉM INSEGURO;March 30, 2023
+3789; pedro.henrique ;SENTIMENTO DE DONO; Comportamental;6.7;Inovador, mas confuso;26.03.23
+3790; joana.oliveira ;Fazer mais com menos; EXECUÇÃO;6.6;Organizado, mas às vezes desatento;25/04/2023
+3791; bruno.pereira ;Ser "team player"; Comportamental;6,3;Reativo, Falta Proatividade;04/04/2023
+3792; clara.mendes ;FAZER MAIS COM MENOS; COMPORTAMENTAL;;organizado, mas às vezes desatento;15/apr/23
+3793; ricardo.lima ;ENTREGAR COM QUALIDADE; COMPORTAMENTAL;6.1;Aprende rápido, mas esquece feedbacks;01.05.2023
+3794; ricardo.silva ;atender aos prazos; Execução;7,3;""organizado, mas às vezes desatento""";April 12, 2023
+3795; luiza.martins ;sentimento de dono; Comportamental;;Reativo, Falta Proatividade;29.03.2023
+3796; carlos.souza ;Capacidade De Aprender; Execução;7.1;Inovador, mas confuso;17/mar/23
+3797; pedro.lima ;organização no trabalho; Execução;6,1;criativo, porém pouco claro;March 11, 2023
+3798; fernanda.silva ;Sentimento De Dono; Execução;Dez;reativo, falta proatividade;08.04.23
+3799; pedro.martins ;Resiliencia Nas Adversidades; execução;;""entrega consistente, mas falta comunicação""";01/may/23
+3800; ana.souza ;Fazer mais com menos; Execução;6,3;""Criativo, porém pouco claro""";23.04.2023
+3801; eduardo.martins ;CAPACIDADE DE APRENDER; comportamental;6.4;aprende rápido, mas esquece feedbacks;16.04.2023
+3802; fernanda.martins ;entregar com qualidade; COMPORTAMENTAL;7,7;Organizado, Mas Às Vezes Desatento;25.04.23
+3803; jorge.ferreira ;Sentimento De Dono; Execução;8.6;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;12.04.2023
+3804; ana.costa ;Fazer mais com menos; Comportamental;7.3;Reativo, falta proatividade;15.04.2023
+3805; sofia.henrique ;Atender aos prazos; comportamental;Oito;Criativo, Porém Pouco Claro;09.04.2023
+3806; sofia.lima ;Fazer mais com menos; COMPORTAMENTAL;Nove;TRABALHO EM EQUIPE PRECISA MELHORAR;May 08, 2023
+3807; ricardo.costa ;Sentimento De Dono; Execução;Sete;aprende rápido, mas esquece feedbacks;18.03.23
+3808; pedro.lima ;Entregar com qualidade; EXECUÇÃO;;""TRABALHO EM EQUIPE PRECISA MELHORAR""";29.03.23
+3809; marcos.henrique ;RESILIENCIA NAS ADVERSIDADES; Execução;8.6;Reativo, Falta Proatividade;08.05.2023
+3810; ana.souza ;Resiliencia Nas Adversidades; Comportamental;;Inovador, Mas Confuso;24.04.23
+3811; ricardo.henrique ;ORGANIZAÇÃO NO TRABALHO; Comportamental;;""Entrega consistente, mas falta comunicação""";20/04/2023
+3812; juliana.lima ;ser "team player"; Execução;6.8;Aprende Rápido, Mas Esquece Feedbacks;12.04.2023
+3813; luiza.souza ;resiliencia nas adversidades; Execução;6.3;Reativo, Falta Proatividade;March 23, 2023
+3814; marcos.martins ;entregar com qualidade; Execução;Seis;TRABALHO EM EQUIPE PRECISA MELHORAR;26.04.23
+3815; mateus.martins ;Sentimento De Dono; COMPORTAMENTAL;7.7;""cumpre prazos, mas sem iniciativa""";06/05/2023
+3816; joão.lima ;fazer mais com menos; Execução;6,1;RESPONSÁVEL, PORÉM INSEGURO;13.03.2023
+3817; marcos.oliveira ;Ser "Team Player"; COMPORTAMENTAL;Oito;Aprende Rápido, Mas Esquece Feedbacks;28.03.23
+3818; ricardo.henrique ;Fazer mais com menos; COMPORTAMENTAL;10,0;Criativo, porém pouco claro;18/apr/23
+3819; mateus.oliveira ;Ser "Team Player"; execução;Oito;aprende rápido, mas esquece feedbacks;08/apr/23
+3820; luiza.silva ;Organização No Trabalho; EXECUÇÃO;7,0;Organizado, mas às vezes desatento;17/apr/23
+3821; mariana.ferreira ;ser "team player"; EXECUÇÃO;7.9;CRIATIVO, PORÉM POUCO CLARO;17.03.23
+3822; ana.souza ;Entregar com qualidade; Execução;Oito;ORGANIZADO, MAS ÀS VEZES DESATENTO;18.04.2023
+3823; eduardo.costa ;Resiliencia Nas Adversidades; EXECUÇÃO;6.2;Organizado, mas às vezes desatento;28/04/2023
+3824; jorge.souza ;ser "team player"; Execução;9,3;""REATIVO, FALTA PROATIVIDADE""";March 23, 2023
+3825; carlos.henrique ;Fazer mais com menos; Execução;;Criativo, porém pouco claro;April 25, 2023
+3826; jorge.mendes ;RESILIENCIA NAS ADVERSIDADES; comportamental;9,9;CUMPRE PRAZOS, MAS SEM INICIATIVA;24.04.23
+3827; sofia.oliveira ;organização no trabalho; Comportamental;7,0;REATIVO, FALTA PROATIVIDADE;21/03/2023
+3828; fernanda.ferreira ;Resiliencia nas adversidades; execução;Oito;Inovador, mas confuso;16.04.2023
+3829; ricardo.henrique ;Entregar Com Qualidade; COMPORTAMENTAL;6.5;""Inovador, Mas Confuso""";07/apr/23
+3830; joão.silva ;organização no trabalho; Comportamental;;aprende rápido, mas esquece feedbacks;04.04.2023
+3831; joão.lima ;ATENDER AOS PRAZOS; Execução;;TRABALHO EM EQUIPE PRECISA MELHORAR;April 10, 2023
+3832; bruno.oliveira ;Ser "team player"; Comportamental;7.1;aprende rápido, mas esquece feedbacks;20/apr/23
+3833; maria.ferreira ;Organização No Trabalho; EXECUÇÃO;9,9;""Entrega consistente, mas falta comunicação""";28.04.2023
+3834; clara.ferreira ;SER "TEAM PLAYER"; EXECUÇÃO;Nove;reativo, falta proatividade;17.04.23
+3835; clara.souza ;RESILIENCIA NAS ADVERSIDADES; Comportamental;8,9;TRABALHO EM EQUIPE PRECISA MELHORAR;April 26, 2023
+3836; carolina.silva ;ORGANIZAÇÃO NO TRABALHO; execução;6,9;Cumpre Prazos, Mas Sem Iniciativa;21.03.2023
+3837; mariana.henrique ;PENSAR FORA DA CAIXA; EXECUÇÃO;6,6;""CUMPRE PRAZOS, MAS SEM INICIATIVA""";25.04.23
+3838; luiza.silva ;fazer mais com menos; execução;Seis;Inovador, Mas Confuso;April 14, 2023
+3839; bruno.martins ;atender aos prazos; Comportamental;9.3;Responsável, porém inseguro;March 19, 2023
+3840; bruno.oliveira ;Entregar Com Qualidade; Execução;Seis;Organizado, Mas Às Vezes Desatento;05/may/23
+3841; clara.ferreira ;capacidade de aprender; Execução;;Reativo, Falta Proatividade;06/apr/23
+3842; ricardo.pereira ;Organização no trabalho; EXECUÇÃO;Nove;Trabalho em equipe precisa melhorar;07.04.2023
+3843; mariana.oliveira ;organização no trabalho; EXECUÇÃO;Sete;Aprende Rápido, Mas Esquece Feedbacks;14/03/2023
+3844; rafael.silva ;Atender Aos Prazos; comportamental;6.4;Boa Execução Com Erros Pontuais;12/04/2023
+3845; clara.pereira ;SENTIMENTO DE DONO; EXECUÇÃO;;aprende rápido, mas esquece feedbacks;May 08, 2023
+3846; joão.mendes ;Pensar fora da caixa; Comportamental;;""Organizado, Mas Às Vezes Desatento""";05.04.2023
+3847; ricardo.pereira ;Resiliencia Nas Adversidades; EXECUÇÃO;Sete;ORGANIZADO, MAS ÀS VEZES DESATENTO;March 25, 2023
+3848; joão.oliveira ;Entregar com qualidade; Execução;7.4;inovador, mas confuso;24.03.2023
+3849; juliana.pereira ;Organização no trabalho; EXECUÇÃO;;""ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO""";11/03/2023
+3850; marcos.pereira ;SENTIMENTO DE DONO; Execução;Nove;reativo, falta proatividade;12/mar/23
+3851; mariana.martins ;PENSAR FORA DA CAIXA; COMPORTAMENTAL;6,3;Cumpre prazos, mas sem iniciativa;March 17, 2023
+3852; joão.costa ;Resiliencia nas adversidades; COMPORTAMENTAL;6,7;Entrega Consistente, Mas Falta Comunicação;05/may/23
+3853; jorge.pereira ;Atender Aos Prazos; Comportamental;Dez;Organizado, Mas Às Vezes Desatento;25/03/2023
+3854; joana.costa ;atender aos prazos; Execução;6,3;Cumpre prazos, mas sem iniciativa;21.04.2023
+3855; joão.mendes ;Sentimento de dono; Execução;9.8;Trabalho em equipe precisa melhorar;08/apr/23
+3856; ana.mendes ;ATENDER AOS PRAZOS; execução;;""Responsável, porém inseguro""";25.04.2023
+3857; jorge.costa ;ORGANIZAÇÃO NO TRABALHO; comportamental;7,4;""reativo, falta proatividade""";April 23, 2023
+3858; marcos.souza ;Ser "Team Player"; Comportamental;6,0;""APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS""";15/apr/23
+3859; ana.costa ;Entregar com qualidade; Execução;8.3;CRIATIVO, PORÉM POUCO CLARO;19/04/2023
+3860; mateus.souza ;organização no trabalho; Execução;Nove;Reativo, falta proatividade;April 10, 2023
+3861; bruno.pereira ;Pensar Fora Da Caixa; Execução;8,8;REATIVO, FALTA PROATIVIDADE;04.04.23
+3862; pedro.martins ;Organização no trabalho; execução;6,8;""Boa execução com erros pontuais""";18/apr/23
+3863; rafael.costa ;Fazer mais com menos; EXECUÇÃO;Oito;Organizado, mas às vezes desatento;11/apr/23
+3864; marcos.henrique ;resiliencia nas adversidades; Execução;9,9;criativo, porém pouco claro;31.03.23
+3865; mateus.lima ;ORGANIZAÇÃO NO TRABALHO; Execução;Dez;Organizado, Mas Às Vezes Desatento;29.03.2023
+3866; ricardo.souza ;Fazer mais com menos; Comportamental;6.1;ORGANIZADO, MAS ÀS VEZES DESATENTO;22/03/2023
+3867; eduardo.souza ;Pensar Fora Da Caixa; Comportamental;6.4;TRABALHO EM EQUIPE PRECISA MELHORAR;April 16, 2023
+3868; maria.costa ;Ser "team player"; EXECUÇÃO;Nove;Entrega Consistente, Mas Falta Comunicação;14.03.23
+3869; maria.costa ;Resiliencia Nas Adversidades; execução;9,2;REATIVO, FALTA PROATIVIDADE;10/mar/23
+3870; pedro.lima ;Ser "team player"; execução;;BOA EXECUÇÃO COM ERROS PONTUAIS;May 01, 2023
+3871; bruno.costa ;Sentimento De Dono; Execução;;""TRABALHO EM EQUIPE PRECISA MELHORAR""";April 02, 2023
+3872; clara.oliveira ;Fazer mais com menos; COMPORTAMENTAL;7.4;ORGANIZADO, MAS ÀS VEZES DESATENTO;04.05.23
+3873; joana.costa ;PENSAR FORA DA CAIXA; execução;7,6;CUMPRE PRAZOS, MAS SEM INICIATIVA;April 26, 2023
+3874; luiza.mendes ;FAZER MAIS COM MENOS; Comportamental;8,3;Aprende rápido, mas esquece feedbacks;18/mar/23
+3875; pedro.pereira ;Sentimento De Dono; execução;8,7;CUMPRE PRAZOS, MAS SEM INICIATIVA;22/mar/23
+3876; fernanda.ferreira ;Entregar com qualidade; Comportamental;Seis;Aprende rápido, mas esquece feedbacks;12.03.23
+3877; bruno.mendes ;PENSAR FORA DA CAIXA; COMPORTAMENTAL;7.9;aprende rápido, mas esquece feedbacks;11/apr/23
+3878; mateus.lima ;entregar com qualidade; execução;8.0;Criativo, porém pouco claro;16.04.23
+3879; mariana.lima ;organização no trabalho; Execução;6,4;entrega consistente, mas falta comunicação;03/04/2023
+3880; mateus.pereira ;Capacidade de aprender; Comportamental;8,5;Cumpre prazos, mas sem iniciativa;19/04/2023
+3881; pedro.martins ;fazer mais com menos; Execução;;inovador, mas confuso;March 19, 2023
+3882; eduardo.martins ;Organização no trabalho; comportamental;9,1;reativo, falta proatividade;April 05, 2023
+3883; clara.henrique ;Fazer Mais Com Menos; comportamental;9.7;CUMPRE PRAZOS, MAS SEM INICIATIVA;22.04.23
+3884; fernanda.souza ;Ser "team player"; execução;Nove;Inovador, Mas Confuso;24.03.2023
+3885; pedro.martins ;ORGANIZAÇÃO NO TRABALHO; COMPORTAMENTAL;Nove;""ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO""";20.04.23
+3886; maria.henrique ;SER "TEAM PLAYER"; execução;9.3;RESPONSÁVEL, PORÉM INSEGURO;18.04.2023
+3887; maria.henrique ;CAPACIDADE DE APRENDER; Comportamental;;reativo, falta proatividade;27.04.2023
+3888; ricardo.oliveira ;Fazer Mais Com Menos; Comportamental;Nove;Inovador, Mas Confuso;April 22, 2023
+3889; ricardo.pereira ;Fazer mais com menos; COMPORTAMENTAL;6,9;""Boa Execução Com Erros Pontuais""";30.03.2023
+3890; pedro.costa ;ORGANIZAÇÃO NO TRABALHO; COMPORTAMENTAL;;aprende rápido, mas esquece feedbacks;27.04.2023
+3891;  ;FAZER MAIS COM MENOS; Execução;7,5;Cumpre Prazos, Mas Sem Iniciativa;02.04.23
+3892; ricardo.mendes ;entregar com qualidade; Comportamental;6.4;INOVADOR, MAS CONFUSO;16.04.23
+3893; carlos.henrique ;capacidade de aprender; Execução;Dez;""Trabalho em equipe precisa melhorar""";07.04.2023
+3894; mateus.henrique ;Ser "Team Player"; Execução;;""Criativo, porém pouco claro""";May 07, 2023
+3895; joana.pereira ;Entregar Com Qualidade; Comportamental;Dez;Organizado, Mas Às Vezes Desatento;28/03/2023
+3896; fernanda.mendes ;Fazer mais com menos; Execução;7,2;criativo, porém pouco claro;02/may/23
+3897; ricardo.martins ;PENSAR FORA DA CAIXA; execução;Sete;inovador, mas confuso;28.04.23
+3898; carlos.silva ;fazer mais com menos; COMPORTAMENTAL;7.3;""boa execução com erros pontuais""";08/apr/23
+3899; mariana.costa ;Capacidade de aprender; Comportamental;6.7;Reativo, falta proatividade;16/04/2023
+3900; mateus.oliveira ;ser "team player"; execução;;""Responsável, Porém Inseguro""";27/mar/23
+3901; sofia.silva ;Capacidade de aprender; comportamental;Dez;inovador, mas confuso;29/04/2023
+3902; maria.pereira ;CAPACIDADE DE APRENDER; Execução;7.4;trabalho em equipe precisa melhorar;01/05/2023
+3903; mariana.oliveira ;Ser "team player"; Comportamental;;Criativo, Porém Pouco Claro;10/03/2023
+3904; carolina.silva ;Sentimento De Dono; Comportamental;;Cumpre prazos, mas sem iniciativa;26.03.23
+3905; rafael.henrique ;SER "TEAM PLAYER"; EXECUÇÃO;Nove;Boa execução com erros pontuais;25.04.23
+3906; luiza.lima ;Sentimento de dono; COMPORTAMENTAL;8.9;Aprende Rápido, Mas Esquece Feedbacks;18.04.2023
+3907;  ;Atender Aos Prazos; Comportamental;;""Aprende rápido, mas esquece feedbacks""";02/apr/23
+3908; luiza.ferreira ;Entregar Com Qualidade; COMPORTAMENTAL;7.9;reativo, falta proatividade;24.03.23
+3909; ana.ferreira ;fazer mais com menos; Execução;Dez;Aprende rápido, mas esquece feedbacks;April 05, 2023
+3910; carlos.silva ;SENTIMENTO DE DONO; comportamental;;responsável, porém inseguro;15/04/2023
+3911; joão.henrique ;Ser "team player"; execução;Oito;organizado, mas às vezes desatento;27.03.23
+3912; sofia.lima ;entregar com qualidade; comportamental;Sete;Organizado, mas às vezes desatento;19.04.2023
+3913; luiza.silva ;resiliencia nas adversidades; Comportamental;Nove;Responsável, Porém Inseguro;15.04.2023
+3914; juliana.silva ;Fazer Mais Com Menos; Execução;6,4;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;April 22, 2023
+3915; maria.silva ;CAPACIDADE DE APRENDER; Comportamental;8.6;""ORGANIZADO, MAS ÀS VEZES DESATENTO""";05.04.2023
+3916; clara.mendes ;organização no trabalho; Execução;9,7;inovador, mas confuso;March 23, 2023
+3917; mateus.oliveira ;resiliencia nas adversidades; execução;7.5;Responsável, porém inseguro;10/mar/23
+3918; jorge.mendes ;ATENDER AOS PRAZOS; comportamental;7.3;""Criativo, Porém Pouco Claro""";10.03.2023
+3919; jorge.pereira ;Pensar Fora Da Caixa; comportamental;9.4;reativo, falta proatividade;22.03.23
+3920; mateus.martins ;fazer mais com menos; COMPORTAMENTAL;;Organizado, mas às vezes desatento;May 06, 2023
+3921; clara.lima ;ser "team player"; Execução;Dez;inovador, mas confuso;March 27, 2023
+3922; joão.pereira ;PENSAR FORA DA CAIXA; Comportamental;Oito;""ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO""";09.05.2023
+3923; mariana.henrique ;Entregar com qualidade; Comportamental;7.8;""trabalho em equipe precisa melhorar""";18.04.2023
+3924; mateus.pereira ;Atender aos prazos; Comportamental;;boa execução com erros pontuais;23/mar/23
+3925; eduardo.costa ;Resiliencia nas adversidades; COMPORTAMENTAL;Nove;""reativo, falta proatividade""";07.05.2023
+3926; ana.ferreira ;Ser "team player"; Execução;9.1;""criativo, porém pouco claro""";29/03/2023
+3927; maria.souza ;Pensar Fora Da Caixa; Comportamental;Dez;CRIATIVO, PORÉM POUCO CLARO;16.04.2023
+3928; carolina.costa ;Pensar Fora Da Caixa; Comportamental;8,2;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;24/mar/23
+3929; juliana.ferreira ;PENSAR FORA DA CAIXA; COMPORTAMENTAL;6.6;Entrega consistente, mas falta comunicação;16/04/2023
+3930; mariana.mendes ;Resiliencia nas adversidades; COMPORTAMENTAL;9,9;""ORGANIZADO, MAS ÀS VEZES DESATENTO""";07.05.2023
+3931; carlos.souza ;Fazer Mais Com Menos; Comportamental;8,0;responsável, porém inseguro;05/apr/23
+3932; fernanda.martins ;Organização no trabalho; EXECUÇÃO;Oito;""entrega consistente, mas falta comunicação""";04.05.23
+3933; marcos.costa ;atender aos prazos; Comportamental;6,4;criativo, porém pouco claro;04.04.2023
+3934; pedro.pereira ;FAZER MAIS COM MENOS; execução;9,4;Aprende rápido, mas esquece feedbacks;April 09, 2023
+3935; sofia.costa ;Pensar Fora Da Caixa; Execução;9,8;boa execução com erros pontuais;May 06, 2023
+3936; juliana.mendes ;atender aos prazos; Execução;;RESPONSÁVEL, PORÉM INSEGURO;23.03.2023
+3937;  ;Pensar Fora Da Caixa; execução;;RESPONSÁVEL, PORÉM INSEGURO;16.04.23
+3938; carolina.costa ;Ser "Team Player"; execução;9,0;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;12/mar/23
+3939; mariana.pereira ;RESILIENCIA NAS ADVERSIDADES; comportamental;6.5;Trabalho em equipe precisa melhorar;01.04.23
+3940; carlos.ferreira ;Sentimento De Dono; Execução;Sete;Entrega Consistente, Mas Falta Comunicação;28/apr/23
+3941; ricardo.mendes ;Entregar com qualidade; COMPORTAMENTAL;Sete;Responsável, porém inseguro;18/04/2023
+3942; joão.ferreira ;RESILIENCIA NAS ADVERSIDADES; Execução;;trabalho em equipe precisa melhorar;April 14, 2023
+3943; carlos.henrique ;Fazer Mais Com Menos; comportamental;9,5;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;14.03.23
+3944; sofia.oliveira ;SER "TEAM PLAYER"; Comportamental;8,3;""REATIVO, FALTA PROATIVIDADE""";19/03/2023
+3945; eduardo.oliveira ;resiliencia nas adversidades; EXECUÇÃO;6.9;cumpre prazos, mas sem iniciativa;27.03.2023
+3946; ricardo.oliveira ;Capacidade de aprender; Execução;7,8;Reativo, falta proatividade;13.04.23
+3947; jorge.ferreira ;Ser "Team Player"; Comportamental;8,4;""criativo, porém pouco claro""";27/03/2023
+3948; bruno.martins ;Atender Aos Prazos; Execução;8,6;responsável, porém inseguro;05.04.23
+3949; juliana.henrique ;ser "team player"; Comportamental;9,5;entrega consistente, mas falta comunicação;15/04/2023
+3950; bruno.ferreira ;Capacidade De Aprender; Execução;7.0;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;16.03.23
+3951; juliana.costa ;Organização No Trabalho; Comportamental;;Responsável, porém inseguro;30/04/2023
+3952; ricardo.oliveira ;Sentimento de dono; comportamental;7.9;RESPONSÁVEL, PORÉM INSEGURO;17.04.23
+3953; maria.souza ;Capacidade De Aprender; Comportamental;8.1;""Trabalho em equipe precisa melhorar""";12/03/2023
+3954; juliana.souza ;entregar com qualidade; execução;;""Reativo, falta proatividade""";March 30, 2023
+3955; carolina.oliveira ;organização no trabalho; Comportamental;;Reativo, Falta Proatividade;18.03.2023
+3956; rafael.silva ;Fazer mais com menos; Execução;9,5;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;30/03/2023
+3957; carlos.martins ;Pensar Fora Da Caixa; Execução;Nove;""Aprende rápido, mas esquece feedbacks""";16.03.23
+3958; maria.oliveira ;resiliencia nas adversidades; Comportamental;;Inovador, Mas Confuso;16/mar/23
+3959; clara.lima ;ORGANIZAÇÃO NO TRABALHO; EXECUÇÃO;7,5;CRIATIVO, PORÉM POUCO CLARO;20.03.23
+3960; carolina.pereira ;SER "TEAM PLAYER"; EXECUÇÃO;;Organizado, Mas Às Vezes Desatento;23/apr/23
+3961; rafael.lima ;fazer mais com menos; execução;8.5;inovador, mas confuso;March 29, 2023
+3962;  ;Resiliencia nas adversidades; EXECUÇÃO;;Responsável, Porém Inseguro;19/04/2023
+3963; pedro.pereira ;ENTREGAR COM QUALIDADE; execução;Oito;BOA EXECUÇÃO COM ERROS PONTUAIS;26/03/2023
+3964; mateus.silva ;Entregar com qualidade; comportamental;9.3;Boa Execução Com Erros Pontuais;04/05/2023
+3965; marcos.costa ;Capacidade De Aprender; Comportamental;Nove;Entrega Consistente, Mas Falta Comunicação;22.03.2023
+3966; jorge.mendes ;Resiliencia Nas Adversidades; Comportamental;Oito;Entrega Consistente, Mas Falta Comunicação;24/apr/23
+3967; ricardo.mendes ;Sentimento de dono; COMPORTAMENTAL;6.6;Responsável, Porém Inseguro;April 10, 2023
+3968; joão.silva ;SER "TEAM PLAYER"; Execução;Sete;REATIVO, FALTA PROATIVIDADE;04/04/2023
+3969; carolina.costa ;SENTIMENTO DE DONO; Comportamental;6,3;organizado, mas às vezes desatento;23/apr/23
+3970; luiza.souza ;Fazer mais com menos; EXECUÇÃO;Dez;CRIATIVO, PORÉM POUCO CLARO;23.04.23
+3971; eduardo.lima ;Ser "Team Player"; COMPORTAMENTAL;10,0;""Criativo, Porém Pouco Claro""";March 12, 2023
+3972; mateus.silva ;ORGANIZAÇÃO NO TRABALHO; COMPORTAMENTAL;Seis;Inovador, mas confuso;05.05.23
+3973; carlos.martins ;Capacidade De Aprender; comportamental;8,2;Aprende Rápido, Mas Esquece Feedbacks;09/may/23
+3974; jorge.ferreira ;ATENDER AOS PRAZOS; Comportamental;6.3;Reativo, Falta Proatividade;23/mar/23
+3975; sofia.ferreira ;Pensar Fora Da Caixa; Comportamental;;Reativo, Falta Proatividade;29/mar/23
+3976; mateus.pereira ;Entregar com qualidade; COMPORTAMENTAL;Sete;""Responsável, porém inseguro""";06.04.2023
+3977; maria.mendes ;CAPACIDADE DE APRENDER; execução;Nove;Cumpre Prazos, Mas Sem Iniciativa;03.05.23
+3978; carolina.oliveira ;organização no trabalho; Comportamental;9.7;Criativo, Porém Pouco Claro;23.04.23
+3979; rafael.henrique ;pensar fora da caixa; Comportamental;9.2;RESPONSÁVEL, PORÉM INSEGURO;22/03/2023
+3980; carolina.ferreira ;Ser "team player"; COMPORTAMENTAL;8,3;entrega consistente, mas falta comunicação;14/apr/23
+3981; rafael.oliveira ;Capacidade de aprender; COMPORTAMENTAL;8,0;aprende rápido, mas esquece feedbacks;27/apr/23
+3982; bruno.lima ;RESILIENCIA NAS ADVERSIDADES; Execução;8.6;""CRIATIVO, PORÉM POUCO CLARO""";02/may/23
+3983; clara.martins ;PENSAR FORA DA CAIXA; execução;8,9;Organizado, Mas Às Vezes Desatento;May 06, 2023
+3984; fernanda.oliveira ;ORGANIZAÇÃO NO TRABALHO; Comportamental;9,3;TRABALHO EM EQUIPE PRECISA MELHORAR;16/mar/23
+3985; juliana.silva ;ATENDER AOS PRAZOS; Comportamental;6.1;""Inovador, mas confuso""";May 06, 2023
+3986; joana.costa ;Ser "team player"; Comportamental;8.1;APRENDE RÁPIDO, MAS ESQUECE FEEDBACKS;03/may/23
+3987; carolina.henrique ;Pensar fora da caixa; EXECUÇÃO;Oito;Cumpre Prazos, Mas Sem Iniciativa;May 05, 2023
+3988; mariana.lima ;CAPACIDADE DE APRENDER; execução;8.3;""Inovador, mas confuso""";08.05.2023
+3989; luiza.mendes ;sentimento de dono; Comportamental;8,7;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;25.04.23
+3990; juliana.pereira ;Entregar Com Qualidade; Execução;7,6;ENTREGA CONSISTENTE, MAS FALTA COMUNICAÇÃO;April 23, 2023
+3991;  ;pensar fora da caixa; comportamental;Sete;RESPONSÁVEL, PORÉM INSEGURO;April 05, 2023
+3992; sofia.martins ;Organização no trabalho; Execução;;""Aprende rápido, mas esquece feedbacks""";18/03/2023
+3993; carolina.mendes ;Capacidade De Aprender; Execução;Dez;Responsável, porém inseguro;16/04/2023
+3994; fernanda.oliveira ;RESILIENCIA NAS ADVERSIDADES; Comportamental;6,6;""organizado, mas às vezes desatento""";31.03.23
+3995; pedro.pereira ;Resiliencia nas adversidades; Execução;;Organizado, mas às vezes desatento;March 19, 2023
+3996; rafael.lima ;Ser "team player"; Comportamental;;""BOA EXECUÇÃO COM ERROS PONTUAIS""";April 30, 2023
+3997;  ;Sentimento De Dono; COMPORTAMENTAL;Seis;Responsável, porém inseguro;16.03.2023
+3998; marcos.lima ;RESILIENCIA NAS ADVERSIDADES; Execução;;""Organizado, mas às vezes desatento""";15/apr/23
+3999; jorge.pereira ;Fazer Mais Com Menos; Execução;;""aprende rápido, mas esquece feedbacks""";April 06, 2023
