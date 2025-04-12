@@ -1,4 +1,4 @@
 HOST = 'localhost'
 USER = 'root'
-PASSWORD = 'root'
+PASSWORD = 'admin'
 DATABASE = 'avaliacao'

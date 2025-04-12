@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>V-Projects - Avaliação de Desempenho</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background-color: #f0f2f5;
+    }
+    h1 {
+      margin-top: 20px;
+      color: #333;
+    }
+    .tabs {
+      display: flex;
+      margin-top: 20px;
+      border-bottom: 2px solid #007bff;
+    }
+    .tab {
+      padding: 12px 24px;
+      cursor: pointer;
+      border: none;
+      background: #e0e0e0;
+      font-weight: bold;
+      transition: background 0.3s;
+      border-radius: 5px 5px 0 0;
+      margin: 0 5px;
+    }
+    .tab.active {
+      background: #007bff;
+      color: white;
+    }
+    .content {
+      display: none;
+      margin-top: 20px;
+      padding: 20px;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      width: 80%;
+      max-width: 600px;
+    }
+    .content.active {
+      display: block;
+    }
+    form label {
+      display: block;
+      margin: 10px 0;
+      font-weight: bold;
+    }
+    input[type="number"] {
+      width: 100%;
+      padding: 8px;
+      margin-top: 5px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    button {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      background: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+      cursor: pointer;
+      margin-top: 20px;
+    }
+    button:hover {
+      background: #0056b3;
+    }
+    .card {
+      background: #007bff;
+      color: white;
+      padding: 10px;
+      border-radius: 8px;
+      text-align: center;
+      margin-top: 15px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>V-Projects - Avaliação de Desempenho</h1>
+  <div class="tabs">
+    <div class="tab active" onclick="showTab('colaborador')">Colaborador</div>
+    <div class="tab" onclick="showTab('socio')">Sócio</div>
+  </div>
+
+  <div id="colaborador" class="content active">
+    <h2>Autoavaliação</h2>
+    <form id="avaliacao">
+      <label>Nome do Usuário:
+        <select>
+          <option>João Silva</option>
+          <option>Maria Oliveira</option>
+          <option>Carlos Souza</option>
+          <option>Ana Mendes</option>
+        </select>
+      </label>
+
+      <h3>Critérios Comportamentais (1 a 5)</h3>
+        <div class="Comportamentais">
+            <label>
+                Sentimento de Dono: <input type="number" name="sentimento_dono" min="1" max="5" />
+                <textarea name="sentimento_dono_just" placeholder="Justifique sua nota (opcional)"></textarea>
+            </label>
+            <label>
+                Resiliência nas Adversidades: <input type="number" name="resiliencia" min="1" max="5" />
+                <textarea name="resiliencia_just" placeholder="Justifique sua nota (opcional)"></textarea>
+            </label>
+            <label>
+                Organização no Trabalho: <input type="number" name="organizacao" min="1" max="5" />
+                <textarea name="organizacao_just" placeholder="Justifique sua nota (opcional)"></textarea>
+            </label>
+            <label>
+                Capacidade de Aprender: <input type="number" name="aprendizado" min="1" max="5" />
+                <textarea name="aprendizado_just" placeholder="Justifique sua nota (opcional)"></textarea>
+            </label>
+            <label>
+                Ser "Team Player": <input type="number" name="team_player" min="1" max="5" />
+                <textarea name="team_player_just" placeholder="Justifique sua nota (opcional)"></textarea>
+            </label>
+        </div>
+
+      <h3>Critérios de Execução (1 a 5)</h3>
+        <div class="Execucao">
+            <label>
+                Entregar com Qualidade: <input type="number" name="qualidade" min="1" max="5" />
+                <textarea name="qualidade_just" placeholder="Justifique sua nota (opcional)"></textarea>
+            </label>
+            <label>
+                Atender aos Prazos: <input type="number" name="prazos" min="1" max="5" />
+                <textarea name="prazos_just" placeholder="Justifique sua nota (opcional)"></textarea>
+            </label>
+            <label>
+                Fazer mais com Menos: <input type="number" name="mais_com_menos" min="1" max="5" />
+                <textarea name="mais_com_menos_just" placeholder="Justifique sua nota (opcional)"></textarea>
+            </label>
+            <label>
+                Pensar Fora da Caixa: <input type="number" name = "fora_da_caixa" min="1" max="5" />
+                <textarea name="fora_da_caixa_just" placeholder="Justifique sua nota (opcional)"></textarea>
+            </label>
+        </div>
+
+      <button type="submit">Enviar Avaliação</button>
+    </form>
+  </div>
+
+  <div id="socio" class="content">
+    <h2>Painel do Sócio</h2>
+    <div>
+        <h3>Indicadores Esperados</h3>
+        <label>Média Comportamental Esperada:
+          <input type="number" id="meta-comportamental" min="0" max="5" step="0.1" value="3.5">
+        </label>
+        <label>Média de Execução Esperada:
+          <input type="number" id="meta-execucao" min="0" max="5" step="0.1" value="3.5">
+        </label>
+    </div>
+    <label>Selecionar Colaborador:
+      <select id="select-colaborador" onchange="mostrarHistorico()">
+        <option value="João Silva">João Silva</option>
+        <option value="Maria Oliveira">Maria Oliveira</option>
+        <option value="Carlos Souza">Carlos Souza</option>
+      </select>
+    </label>
+    <label>Selecionar Data da Avaliação:
+        <select id="select-data" onchange="mostrarHistorico()">
+          <option value="">Selecione um colaborador primeiro</option>
+        </select>
+    </label>      
+    <div id="historico"></div>
+  </div>
+
+  <div id="envioForm" class="content">
+    <h2>Confirmação de Envio</h2>
+    <h3>Histórico das Suas Autoavaliações</h3>
+    <label>Selecionar Data:
+        <select id="historico-colab-data" onchange="mostrarHistoricoColab()">
+            <option value="">Selecione uma data</option>
+        </select>
+    </label>
+    <div id="historico-colab-detalhes"></div>
+    <div id="resultado-avaliacao" class="card" style="margin-top: 20px;"></div>
+    <p>A sua autoavaliação foi enviada com sucesso!</p>
+    <button onclick="showTab('colaborador')">Voltar</button>
+  </div>
+
+  <script>
+
+    const historicoAvaliacoes = {
+        "João Silva": [
+            { data: "2024-12-01", comp: 4.2, exec: 3.8 },
+            { data: "2025-03-15", comp: 3.9, exec: 3.5 }
+        ],
+        "Maria Oliveira": [
+            { data: "2025-01-10", comp: 3.4, exec: 3.1 }
+        ],
+        "Carlos Souza": [
+            { data: "2025-02-20", comp: 2.7, exec: 2.9 },
+            { data: "2025-04-01", comp: 3.1, exec: 3.0 }
+        ]
+    };
+
+
+
+    function showTab(tabId) {
+      document.querySelectorAll(".tab").forEach((tab) =>
+        tab.classList.remove("active")
+      );
+      document.querySelectorAll(".content").forEach((content) =>
+        content.classList.remove("active")
+      );
+      if (document.querySelector(`[onclick="showTab('${tabId}')"]`)) {
+        document
+          .querySelector(`[onclick="showTab('${tabId}')"]`)
+          .classList.add("active");
+      }
+      document.getElementById(tabId).classList.add("active");
+    }
+
+    function mostrarHistorico() {
+        const colaborador = document.getElementById('select-colaborador').value;
+        const selectData = document.getElementById('select-data');
+
+        // Preenche datas se colaborador mudou
+        const historico = historicoAvaliacoes[colaborador] || [];
+        if (selectData.dataset.loadedFor !== colaborador) {
+            selectData.innerHTML = historico.map((h, i) =>
+                `<option value="${i}">${h.data}</option>`
+            ).join('');
+            selectData.dataset.loadedFor = colaborador;
+        }
+
+        const indice = parseInt(selectData.value);
+        if (isNaN(indice)) {
+            document.getElementById('historico').innerHTML = "<p>Selecione uma data para ver os detalhes.</p>";
+            return;
+        }
+
+        const avaliacao = historico[indice];
+        const mediaComp = avaliacao.comp;
+        const mediaExec = avaliacao.exec;
+        const mediaGeral = ((mediaComp + mediaExec) / 2).toFixed(2);
+
+        const metaComp = parseFloat(document.getElementById("meta-comportamental").value);
+        const metaExec = parseFloat(document.getElementById("meta-execucao").value);
+
+        const corComp = mediaComp >= metaComp ? "green" : "red";
+        const corExec = mediaExec >= metaExec ? "green" : "red";
+
+        document.getElementById('historico').innerHTML = `
+        <h3>Avaliação de ${colaborador} (${avaliacao.data})</h3>
+        <p><strong>Média Comportamental:</strong> 
+            <span style="color: ${corComp}">${mediaComp.toFixed(2)}</span> (meta: ${metaComp.toFixed(2)})
+        </p>
+        <p><strong>Média Execução:</strong> 
+            <span style="color: ${corExec}">${mediaExec.toFixed(2)}</span> (meta: ${metaExec.toFixed(2)})
+        </p>
+        <div class="card"><strong>Média Geral:</strong> ${mediaGeral}</div>
+        `;
+    }
+
+    function mostrarHistoricoColab() {
+        const select = document.getElementById("historico-colab-data");
+        const indice = parseInt(select.value);
+        const colaborador = document.querySelector("#avaliacao select").value;
+        const historico = historicoAvaliacoes[colaborador] || [];
+
+        if (isNaN(indice)) {
+            document.getElementById("historico-colab-detalhes").innerHTML = "<p>Selecione uma data para ver os detalhes.</p>";
+            return;
+        }
+
+        const avaliacao = historico[indice];
+        const mediaComp = avaliacao.comp;
+        const mediaExec = avaliacao.exec;
+        const mediaGeral = ((mediaComp + mediaExec) / 2).toFixed(2);
+
+        document.getElementById("historico-colab-detalhes").innerHTML = `
+            <p><strong>Data:</strong> ${avaliacao.data}</p>
+            <p><strong>Média Comportamental:</strong> ${mediaComp.toFixed(2)}</p>
+            <p><strong>Média de Execução:</strong> ${mediaExec.toFixed(2)}</p>
+            <div class="card"><strong>Média Geral:</strong> ${mediaGeral}</div>
+        `;
+    }
+
+
+    document.addEventListener("DOMContentLoaded", function () {
+        document.getElementById("avaliacao").addEventListener("submit", async function (event) {
+            event.preventDefault();
+
+            const getValue = name => parseInt(document.querySelector(`[name="${name}"]`)?.value || 0);
+            const getText = name => document.querySelector(`[name="${name}"]`)?.value.trim() || "";
+
+            // Coletar campos comportamentais
+            const comp = {
+                sentimento_dono: getValue("sentimento_dono"),
+                sentimento_dono_just: getText("sentimento_dono_just"),
+                resiliencia: getValue("resiliencia"),
+                resiliencia_just: getText("resiliencia_just"),
+                organizacao: getValue("organizacao"),
+                organizacao_just: getText("organizacao_just"),
+                aprendizado: getValue("aprendizado"),
+                aprendizado_just: getText("aprendizado_just"),
+                team_player: getValue("team_player"),
+                team_player_just: getText("team_player_just")
+            };
+
+            // Coletar campos de execução
+            const exec = {
+                qualidade: getValue("qualidade"),
+                qualidade_just: getText("qualidade_just"),
+                prazos: getValue("prazos"),
+                prazos_just: getText("prazos_just"),
+                mais_com_menos: getValue("mais_com_menos"),
+                mais_com_menos_just: getText("mais_com_menos_just"),
+                fora_da_caixa: getValue("fora_da_caixa"),
+                fora_da_caixa_just: getText("fora_da_caixa_just")
+            };
+
+            // Calcular médias
+            const notasComp = [comp.sentimento_dono, comp.resiliencia, comp.organizacao, comp.aprendizado, comp.team_player];
+            const notasExec = [exec.qualidade, exec.prazos, exec.mais_com_menos, exec.fora_da_caixa];
+
+            const mediaComp = notasComp.reduce((a, b) => a + b, 0) / notasComp.length;
+            const mediaExec = notasExec.reduce((a, b) => a + b, 0) / notasExec.length;
+            const mediaGeral = (mediaComp + mediaExec) / 2;
+
+            const dados = {
+                nome_usuario: document.querySelector("#avaliacao select").value,
+                media_comportamental: parseFloat(mediaComp.toFixed(2)),
+                media_execucao: parseFloat(mediaExec.toFixed(2)),
+                media: parseFloat(mediaGeral.toFixed(2)),
+
+                // Campos individuais
+                ...comp,
+                ...exec
+            };
+
+            console.log("Dados para envio:", dados);
+            showTab("envioForm");
+
+            // Envio
+            // try {
+            //     const response = await fetch("http://localhost:8000/avaliacao", {
+            //         method: "POST",
+            //         headers: { "Content-Type": "application/json" },
+            //         body: JSON.stringify(dados)
+            //     });
+            //     const resultado = await response.json();
+            //     console.log("Salvo:", resultado);
+
+            //     document.getElementById("resultado-avaliacao").innerHTML = `
+            //         <p><strong>Média Comportamental:</strong> ${mediaComp.toFixed(2)}</p>
+            //         <p><strong>Média Execução:</strong> ${mediaExec.toFixed(2)}</p>
+            //         <div class="card"><strong>Média Geral:</strong> ${mediaGeral.toFixed(2)}</div>
+            //     `;
+            //     showTab("envioForm");
+
+            // } catch (err) {
+            //     console.error("Erro ao enviar:", err);
+            //     alert("Erro ao salvar dados.");
+            // }
+        });
+    });
+  </script>
+</body>
+</html>

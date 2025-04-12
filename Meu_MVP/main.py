@@ -2,6 +2,9 @@ from fastapi import FastAPI, Depends, HTTPException
 from sqlalchemy.orm import Session
 import models, schemas
 from database import SessionLocal, engine
+from schemas import AutoAvaliacaoBase, AutoAvaliacaoUpdate
+from models import AutoAvaliacao
+from datetime import date
 
 models.Base.metadata.create_all(bind=engine)
 app = FastAPI()
@@ -37,23 +40,35 @@ def atualizar_avaliacao(avaliacao_id: int, dados: schemas.AvaliacaoUpdate, db: S
     return avaliacao
 
 # --- AUTOAVALIAÇÃO COMPLETA ---
-@app.post("/skills/")
-def criar_skill(dados: schemas.SkillCreate, db: Session = Depends(get_db)):
-    nova = models.Skill(**dados.dict())
+@app.post("/avaliacao")
+def salvar_autoavaliacao(dados: AutoAvaliacaoBase, db: Session = Depends(get_db)):
+    nova = AutoAvaliacao(**dados.dict(), data=date.today())
     db.add(nova)
     db.commit()
     db.refresh(nova)
     return {"status": "sucesso", "id": nova.id}
 
+@app.put("/avaliacao/{avaliacao_id}")
+def atualizar_autoavaliacao(avaliacao_id: int, dados: AutoAvaliacaoUpdate, db: Session = Depends(get_db)):
+    avaliacao = db.query(AutoAvaliacao).filter(AutoAvaliacao.id == avaliacao_id).first()
+    if not avaliacao:
+        raise HTTPException(status_code=404, detail="Autoavaliação não encontrada")
 
-    #@app.get("/socios/colaboradores")
-#def listar_colaboradores_autoavaliacoes(db: Session = Depends(get_db)):
-    nomes = db.query(models.AutoAvaliacao.nome_usuario).distinct().all()
+    for campo, valor in dados.dict().items():
+        setattr(avaliacao, campo, valor)
+
+    db.commit()
+    db.refresh(avaliacao)
+    return avaliacao
+
+@app.get("/socios/colaboradores")
+def listar_colaboradores_autoavaliacoes(db: Session = Depends(get_db)):
+    nomes = db.query(AutoAvaliacao.nome_usuario).distinct().all()
     return [nome[0] for nome in nomes]
 
-    #@app.get("/socios/evolucao/{nome_usuario}")
-#def evolucao_autoavaliacao(nome_usuario: str, db: Session = Depends(get_db)):
-    avaliacoes = db.query(models.AutoAvaliacao).filter(models.AutoAvaliacao.nome_usuario == nome_usuario).all()
+@app.get("/socios/evolucao/{nome_usuario}")
+def evolucao_autoavaliacao(nome_usuario: str, db: Session = Depends(get_db)):
+    avaliacoes = db.query(AutoAvaliacao).filter(AutoAvaliacao.nome_usuario == nome_usuario).all()
 
     if not avaliacoes:
         raise HTTPException(status_code=404, detail="Colaborador não encontrado ou sem autoavaliações.")
@@ -75,6 +90,7 @@ def criar_skill(dados: schemas.SkillCreate, db: Session = Depends(get_db)):
 
         resultados.append({
             "id": a.id,
+            "data": a.data,
             "media": media,
             "classificacao": classificacao
         })
@@ -83,4 +99,3 @@ def criar_skill(dados: schemas.SkillCreate, db: Session = Depends(get_db)):
         "colaborador": nome_usuario,
         "avaliacoes": resultados
     }
-
